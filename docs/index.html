@@ -1,41 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <base href="/score-tracker-web/">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
 
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="score_tracker_app">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>score_tracker_app</title>
-  <link rel="manifest" href="manifest.json">
+  <title>Score Tracker App</title>
 
-  <!-- This CSP is configured to allow necessary resources for Flutter web,
-       including Firebase, Google Fonts, CanvasKit (gstatic.com), and your
-       local Node.js server (http://localhost:3000). -->
+  <!-- IMPORTANT: Cross-Origin-Opener-Policy for OAuth popups/redirects.
+       This helps prevent the "popup-closed-by-user" error and allows communication. -->
+  <meta http-equiv="Cross-Origin-Opener-Policy" content="unsafe-none">
+
   <meta http-equiv="Content-Security-Policy" content="
-        default-src 'self';
-        script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com;
-        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
-        font-src 'self' https://fonts.gstatic.com;
-        img-src 'self' data: blob:;
-        connect-src 'self' https://*.firebaseio.com wss://*.firebaseio.com https://*.googleapis.com https://www.gstatic.com https://fonts.gstatic.com http://localhost:3000;
-        object-src 'none';
-        base-uri 'self';
-        form-action 'self';
-        frame-ancestors 'none';
-    ">
+    default-src 'self';
+    script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com https://apis.google.com https://accounts.google.com;
+    style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+    img-src 'self' data: blob: https: https://upload.wikimedia.org;
+    connect-src 'self' https://*.firebaseio.com wss://*.firebaseio.com https://*.googleapis.com https://www.gstatic.com https://fonts.gstatic.com http://localhost:3000 https://upload.wikimedia.org https://accounts.google.com;
+    frame-src https://*.firebaseapp.com https://*.firebaseauth.com;
+    object-src 'none';
+    base-uri 'self';
+    form-action 'self';
+  ">
 
+  <link rel="manifest" href="manifest.json">
 </head>
 <body>
-<script src="flutter.js" defer></script>
-
-<script src="main.dart.js" type="application/javascript"></script>
+<script src="flutter_bootstrap.js"></script>
 </body>
 </html>
