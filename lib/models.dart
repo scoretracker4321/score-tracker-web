@@ -11,6 +11,9 @@ class StudentGroup {
   List<String>? memberIds; // Only for groups
   bool isArchived; // New field for archiving
 
+  // Static constant for the fixed initial score, available globally to StudentGroup instances
+  static const int fixedInitialScore = 100;
+
   StudentGroup({
     this.id,
     required this.name,
@@ -35,12 +38,12 @@ class StudentGroup {
           [],
       classId: map['classId'] as String,
       memberIds: (map['memberIds'] as List<dynamic>?)?.map((e) => e as String).toList(),
-      isArchived: map['isArchived'] as bool? ?? false, // Handle null for old data
+      isArchived: map['isArchived'] as bool? ?? false, // Default to false if not present
     );
   }
 
   /// Converts a `StudentGroup` instance to a Map for Firestore.
-  Map<String, dynamic> toFirestore() {
+  Map<String, dynamic> toMap() { // <--- CORRECTED: Changed toFirestore() to toMap()
     return {
       'name': name,
       'isGroup': isGroup,
@@ -51,14 +54,60 @@ class StudentGroup {
       'isArchived': isArchived,
     };
   }
+
+  /// Helper method to calculate growth metrics consistently.
+  /// Uses a fixed initial score of 100 for net growth baseline.
+  /// Calculates total increment and total decrement from the entire history.
+  Map<String, int> calculateGrowthMetrics() {
+    // Net growth baseline is always fixedInitialScore (100)
+    final int netGrowth = score - fixedInitialScore;
+
+    int totalIncrement = 0;
+    int totalDecrement = 0;
+
+    // The starting score for cumulative increment/decrement calculation.
+    // If history is not empty, use the first history entry's score.
+    // Otherwise, use the fixed initial score (100).
+    int currentCumulativeScore = history.isNotEmpty ? history.first.score : fixedInitialScore;
+
+    // Calculate cumulative increment and decrement from history entries
+    for (int i = 0; i < history.length; i++) {
+      final int entryScore = history[i].score;
+      final int change = entryScore - currentCumulativeScore;
+
+      if (change > 0) {
+        totalIncrement += change;
+      } else if (change < 0) { // Only negative changes contribute to decrement
+        totalDecrement += change; // Add negative value
+      }
+      currentCumulativeScore = entryScore; // Update for next iteration
+    }
+
+    // Account for the change from the last history entry to the current score
+    // If history is empty, this accounts for the change from fixedInitialScore to current score
+    final int finalChange = score - currentCumulativeScore;
+    if (finalChange > 0) {
+      totalIncrement += finalChange;
+    } else if (finalChange < 0) {
+      totalDecrement += finalChange;
+    }
+
+    return {
+      'initialScore': fixedInitialScore, // The baseline initial score used for net growth
+      'netGrowth': netGrowth,
+      'totalIncrement': totalIncrement,
+      'totalDecrement': totalDecrement,
+      'currentScore': score, // The current score of the student/group
+    };
+  }
 }
 
-/// Data model for a single score history entry.
+/// Data model for an individual score history entry.
 class ScoreHistoryEntry {
   int score;
   DateTime timestamp;
-  String? reason;
-  String? customComment;
+  String? reason; // Reason for score change (e.g., 'reward', 'penalty')
+  String? customComment; // Optional custom comment for the entry
 
   ScoreHistoryEntry({
     required this.score,
@@ -71,7 +120,7 @@ class ScoreHistoryEntry {
   factory ScoreHistoryEntry.fromMap(Map<String, dynamic> map) {
     return ScoreHistoryEntry(
       score: map['score'] as int,
-      timestamp: (map['timestamp'] as Timestamp).toDate(), // Convert Firestore Timestamp to DateTime
+      timestamp: (map['timestamp'] as Timestamp).toDate(),
       reason: map['reason'] as String?,
       customComment: map['customComment'] as String?,
     );
@@ -81,95 +130,14 @@ class ScoreHistoryEntry {
   Map<String, dynamic> toMap() {
     return {
       'score': score,
-      'timestamp': Timestamp.fromDate(timestamp), // Convert DateTime to Firestore Timestamp
+      'timestamp': Timestamp.fromDate(timestamp),
       'reason': reason,
       'customComment': customComment,
     };
   }
 }
 
-/// Data model for an application activity log entry.
-class AppActivity {
-  String id;
-  String action;
-  DateTime timestamp;
-  Map<String, dynamic> details;
-
-  AppActivity({
-    required this.id,
-    required this.action,
-    required this.timestamp,
-    this.details = const {},
-  });
-
-  /// Factory constructor to create an `AppActivity` from a Firestore Map.
-  factory AppActivity.fromMap(Map<String, dynamic> map, {String? id}) {
-    return AppActivity(
-      id: id ?? map['id'] as String,
-      action: map['action'] as String,
-      timestamp: (map['timestamp'] as Timestamp).toDate(),
-      details: (map['details'] as Map<String, dynamic>?) ?? {},
-    );
-  }
-
-  /// Converts an `AppActivity` instance to a Map for Firestore.
-  Map<String, dynamic> toFirestore() {
-    return {
-      'id': id,
-      'action': action,
-      'timestamp': Timestamp.fromDate(timestamp),
-      'details': details,
-    };
-  }
-}
-
-/// Data model for a declared winner.
-class Winner {
-  String? id; // Document ID from Firestore
-  String studentGroupId; // ID of the student/group that won
-  String studentGroupName;
-  int score;
-  DateTime timestamp;
-  String classId;
-  String? imageUrl; // Optional: URL to a winner photo
-
-  Winner({
-    this.id,
-    required this.studentGroupId,
-    required this.studentGroupName,
-    required this.score,
-    required this.timestamp,
-    required this.classId,
-    this.imageUrl,
-  });
-
-  /// Factory constructor to create a `Winner` from a Firestore Map.
-  factory Winner.fromMap(Map<String, dynamic> map, {String? id}) {
-    return Winner(
-      id: id,
-      studentGroupId: map['studentGroupId'] as String,
-      studentGroupName: map['studentGroupName'] as String,
-      score: map['score'] as int,
-      timestamp: (map['timestamp'] as Timestamp).toDate(),
-      classId: map['classId'] as String,
-      imageUrl: map['imageUrl'] as String?,
-    );
-  }
-
-  /// Converts a `Winner` instance to a Map for Firestore.
-  Map<String, dynamic> toFirestore() {
-    return {
-      'studentGroupId': studentGroupId,
-      'studentGroupName': studentGroupName,
-      'score': score,
-      'timestamp': Timestamp.fromDate(timestamp),
-      'classId': classId,
-      'imageUrl': imageUrl,
-    };
-  }
-}
-
-/// Data model for application error logs.
+/// Data model for an error log, to be sent to a server for monitoring.
 class AppErrorLog {
   String message;
   String stackTrace;
@@ -231,12 +199,105 @@ class SharedReport {
   }
 
   /// Converts a `SharedReport` instance to a Map for Firestore.
-  Map<String, dynamic> toFirestore() {
+  Map<String, dynamic> toMap() { // <--- CORRECTED: Changed toFirestore() to toMap()
     return {
+      'id': id,
       'classId': classId,
       'generatedAt': Timestamp.fromDate(generatedAt),
       'generatorUserId': generatorUserId,
       'active': active,
+    };
+  }
+}
+
+/// Data model for a Winner.
+class Winner {
+  String? id; // Document ID from Firestore
+  String studentGroupId; // ID of the winning student/group
+  String studentGroupName;
+  String classId;
+  int score;
+  DateTime timestamp;
+  String? photoUrl; // URL to winner photo in Firebase Storage <--- CORRECTED: Changed imageUrl to photoUrl
+
+  Winner({
+    this.id,
+    required this.studentGroupId,
+    required this.studentGroupName,
+    required this.classId,
+    required this.score,
+    required this.timestamp,
+    this.photoUrl, // <--- CORRECTED: Changed imageUrl to photoUrl
+  });
+
+  /// Factory constructor to create a `Winner` from a Firestore Map.
+  factory Winner.fromMap(Map<String, dynamic> map, {String? id}) {
+    return Winner(
+      id: id,
+      studentGroupId: map['studentGroupId'] as String,
+      studentGroupName: map['studentGroupName'] as String,
+      classId: map['classId'] as String,
+      score: map['score'] as int,
+      timestamp: (map['timestamp'] as Timestamp).toDate(),
+      photoUrl: map['photoUrl'] as String?, // <--- CORRECTED: Changed imageUrl to photoUrl
+    );
+  }
+
+  /// Converts a `Winner` instance to a Map for Firestore.
+  Map<String, dynamic> toMap() { // <--- CORRECTED: Changed toFirestore() to toMap()
+    return {
+      'studentGroupId': studentGroupId,
+      'studentGroupName': studentGroupName,
+      'classId': classId,
+      'score': score,
+      'timestamp': Timestamp.fromDate(timestamp),
+      'photoUrl': photoUrl, // <--- CORRECTED: Changed imageUrl to photoUrl
+    };
+  }
+}
+
+/// Data model for App Activities (e.g., student added, score updated, winner declared).
+class AppActivity {
+  String? id; // Document ID from Firestore
+  String activityType; // e.g., 'student_added', 'score_updated', 'winner_declared' <--- CORRECTED: Changed action to activityType
+  String description; // New field for detailed description
+  DateTime timestamp;
+  String classId; // New field for class ID
+  String? userId; // User who performed the activity
+  Map<String, dynamic>? details; // Optional additional details
+
+  AppActivity({
+    this.id,
+    required this.activityType, // <--- CORRECTED: Changed action to activityType
+    required this.description, // New required field
+    required this.timestamp,
+    required this.classId, // New required field
+    this.userId,
+    this.details,
+  });
+
+  /// Factory constructor to create an `AppActivity` from a Firestore Map.
+  factory AppActivity.fromMap(Map<String, dynamic> map, {String? id}) {
+    return AppActivity(
+      id: id,
+      activityType: map['activityType'] as String? ?? 'unknown_activity', // Handle null or missing
+      description: map['description'] as String? ?? 'No description provided.', // Handle null or missing
+      timestamp: (map['timestamp'] as Timestamp).toDate(),
+      classId: map['classId'] as String? ?? 'unknown_class', // Handle null or missing
+      userId: map['userId'] as String?,
+      details: map['details'] as Map<String, dynamic>?,
+    );
+  }
+
+  /// Converts an `AppActivity` instance to a Map for Firestore.
+  Map<String, dynamic> toMap() { // <--- CORRECTED: Changed toFirestore() to toMap()
+    return {
+      'activityType': activityType, // <--- CORRECTED: Changed action to activityType
+      'description': description, // New field
+      'timestamp': Timestamp.fromDate(timestamp),
+      'classId': classId, // New field
+      'userId': userId,
+      'details': details,
     };
   }
 }

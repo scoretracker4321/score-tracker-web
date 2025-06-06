@@ -880,7 +880,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
                           .doc('data')
                           .collection('students');
 
-                      final docRef = await targetCollection.add(newStudentGroup.toFirestore());
+                      final docRef = await targetCollection.add(newStudentGroup.toMap());
 
                       // Add this action to the undo stack
                       _undoStack.add(UndoableAction(
@@ -897,7 +897,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
                       _logErrorToServer(error, stack, customMessage: 'Failed to add entity');
                     }
                   } else { // Update existing entity
-                    final originalItemData = itemToEdit.toFirestore(); // Store original data for undo/revert
+                    final originalItemData = itemToEdit.toMap(); // Store original data for undo/revert
 
                     final updatedStudentGroup = StudentGroup(
                       id: itemToEdit.id,
@@ -919,7 +919,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
                           .doc('data')
                           .collection('students');
 
-                      await targetCollection.doc(itemToEdit.id).update(updatedStudentGroup.toFirestore());
+                      await targetCollection.doc(itemToEdit.id).update(updatedStudentGroup.toMap());
 
                       // Add to undo stack (store original data to revert to previous state)
                       _undoStack.add(UndoableAction(
@@ -1432,7 +1432,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
             classId: winner.classId,
           );
           // Add winner to the public winners collection in Firestore
-          batch.set(_firestore.collection('artifacts').doc(_appId).collection('public').doc('data').collection('winners').doc(), newWinner.toFirestore());
+          batch.set(_firestore.collection('artifacts').doc(_appId).collection('public').doc('data').collection('winners').doc(), newWinner.toMap());
         }
         await batch.commit(); // Commit all batched writes
         print('Winner(s) declared: $winnerNames');
@@ -1464,10 +1464,12 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
           .collection('activityLog')
           .add(AppActivity(
         id: uuid.v4(), // Generate a unique ID for the activity entry
-        action: action,
+        activityType: 'some_activity_type', // Replace with an appropriate string like 'error_log'
+        description: 'some_description_for_activity', // Replace with a meaningful description
+        classId: _selectedClassId,
         timestamp: DateTime.now(),
         details: details ?? {}, // Store any additional details
-      ).toFirestore());
+      ).toMap());
       print('DEBUG: Activity logged to Firestore: $action');
     } catch (error, stack) {
       print('DEBUG: Error logging activity to Firestore: $error');
@@ -2379,7 +2381,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
           .doc('data')
           .collection('sharedReports')
           .doc(reportId)
-          .set(newSharedReport.toFirestore());
+          .set(newSharedReport.toMap());
 
       // Construct the shareable URL
       String shareableLink;
@@ -2627,7 +2629,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
                         itemBuilder: (context, index) {
                           final activity = _allActivities[index];
                           return ListTile(
-                            title: Text(activity.action),
+                            title: Text(activity.description),
                             subtitle: Text(
                               '${DateFormat('yyyy-MM-dd HH:mm').format(activity.timestamp.toLocal())}\nDetails: ${activity.details}',
                             ),
@@ -2769,9 +2771,9 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
                                       growthText = ' (Growth: ${growth > 0 ? '+' : ''}$growth)';
                                     }
                                     return ListTile(
-                                      leading: winner.imageUrl != null && winner.imageUrl!.isNotEmpty
+                                      leading: winner.photoUrl != null && winner.photoUrl!.isNotEmpty
                                           ? CircleAvatar(
-                                        backgroundImage: NetworkImage(winner.imageUrl!),
+                                        backgroundImage: NetworkImage(winner.photoUrl!),
                                         onBackgroundImageError: (exception, stackTrace) {
                                           print('Error loading winner image: $exception'); // Log image loading errors
                                         },
