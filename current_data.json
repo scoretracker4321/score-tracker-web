@@ -1,0 +1,532 @@
+{
+  "data": [
+    {
+      "name": "Baseera",
+      "isGroup": false,
+      "score": 120,
+      "history": [
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-23T15:25:37.711"
+        }
+      ],
+      "classId": "7A"
+    },
+    {
+      "name": "Dhanalakshmi",
+      "isGroup": false,
+      "score": 90,
+      "history": [
+        {
+          "score": 90,
+          "comment": "nn",
+          "timestamp": "2025-05-23T15:25:47.331"
+        }
+      ],
+      "classId": "7A"
+    },
+    {
+      "name": "Doshani",
+      "isGroup": false,
+      "score": 110,
+      "history": [
+        {
+          "score": 110,
+          "comment": "nn",
+          "timestamp": "2025-05-23T15:31:56.978"
+        }
+      ],
+      "classId": "7A"
+    },
+    {
+      "name": "Kaviya",
+      "isGroup": false,
+      "score": 110,
+      "history": [
+        {
+          "score": 110,
+          "comment": "nn",
+          "timestamp": "2025-05-23T15:32:08.083"
+        }
+      ],
+      "classId": "7A"
+    },
+    {
+      "name": "Kiruthika",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Lekha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Madhivadhini",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Madhumitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Ranjana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Rizmeeriya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Sanjana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Sathiya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Sridivya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Suroshya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Varshini Sasikumar",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Varshini Srinivasan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Abjal",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Ariya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Gugan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Inbaraj",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Karthik",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Krishna",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Lithish",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Mathesh",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Ansar",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Mugunthan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Saravana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Sham",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Sunil",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Surya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Thanishkaran",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Thirukumaran",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Victor",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Vishwa",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Yuvanesh",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "name": "Akash",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Aravind",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Arun",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Bharani",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Chinna",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Dishwanth",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Hemanth",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Kanishkar",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Nabil",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Riyaz",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "S Roshan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "H Roshan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Sabari",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Sai Charan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Shankar",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Sathya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Srinee",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Sudeep",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Vaidee",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Divya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Durga",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Lithisri",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Maha N",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Monisha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Preethi",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Rajalakshmi",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Rakshitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Ramya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "S Roshini",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Sasti",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Shamitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Shana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Suba",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Swetha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Vinitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Yazhini",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "name": "Rishi Rohan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    }
+  ]
+}

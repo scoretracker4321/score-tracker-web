@@ -1,0 +1,30 @@
+{
+  "name": "score_tracker",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "corepack": "^0.32.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0",
+    "http-proxy-middleware": "^3.0.5",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
+    "npm": "^10.9.2",
+    "uuid": "^11.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

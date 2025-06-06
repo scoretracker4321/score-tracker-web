@@ -1,0 +1,704 @@
+{
+  "data": [
+    {
+      "id": "35ffb7be-e8f0-44fb-9e29-e77ff6bfe2cb",
+      "name": "Baseera",
+      "isGroup": false,
+      "score": 80,
+      "history": [
+        {
+          "score": 80,
+          "comment": "bb",
+          "timestamp": "2025-05-26T13:48:16.762"
+        }
+      ],
+      "classId": "7A"
+    },
+    {
+      "id": "3345c162-2bbf-45b7-ba48-1567321f0b16",
+      "name": "Dhanalakshmi",
+      "isGroup": false,
+      "score": 70,
+      "history": [
+        {
+          "score": 70,
+          "comment": "bb",
+          "timestamp": "2025-05-26T13:48:27.462"
+        }
+      ],
+      "classId": "7A"
+    },
+    {
+      "id": "713accac-2066-41f2-979b-64535db6760c",
+      "name": "Doshani",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "298af6e4-fb1c-4227-894d-aff7917331c5",
+      "name": "Kaviya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "657a32cb-248f-472c-9925-98fa0448006a",
+      "name": "Kiruthika",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "48523e5e-27e0-4c55-828f-7f18744b68df",
+      "name": "Lekha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "34740762-86f4-425b-a2ef-70298514c7a3",
+      "name": "Madhivadhini",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "b75f3d9a-cc56-4ea9-a430-0b8dc6b03e62",
+      "name": "Madhumitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "03b3057b-3109-435d-a185-e4f041062549",
+      "name": "Ranjana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "ff70ac2d-f63d-4aaa-992d-9a16ab4c3e8d",
+      "name": "Rizmeeriya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "58a26b48-d1b8-4d9a-90df-ee61d4170cbf",
+      "name": "Sanjana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "13acb49a-117e-4cbf-86ba-4b2931d1fd9c",
+      "name": "Sathiya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "57fa7d31-69a5-46aa-8e42-02fe8761e786",
+      "name": "Sridivya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "7b7a7aa2-acc3-4d55-a2ab-a207dcd91bb7",
+      "name": "Suroshya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "9d7206ca-b0df-4c62-b92a-1a0f8cab7c2b",
+      "name": "Varshini Sasikumar",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "9ccc8a9f-877d-4dc7-8592-8385699697d1",
+      "name": "Varshini Srinivasan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "74aad851-100a-4ad3-860a-e6e92c8bf822",
+      "name": "Abjal",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "684d0b08-4cd5-4995-892f-8b9a1b330bcc",
+      "name": "Ariya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "2f6d3741-6c9e-4d35-a994-67473df459a3",
+      "name": "Gugan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "5c133b1d-95ee-4eae-af10-f1a608dc2801",
+      "name": "Inbaraj",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "4267f2e4-dee6-490a-a2ea-ae66ed39131e",
+      "name": "Karthik",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "1e4682d1-c75a-4568-a103-6376425c3790",
+      "name": "Krishna",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "3294e6d8-465a-43f7-9ca9-83541c07f242",
+      "name": "Lithish",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "a7de372f-c2d9-4106-bfb8-286e67eb7f2f",
+      "name": "Mathesh",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "b68d63c5-3a2b-41f4-90ac-d62577a3f50f",
+      "name": "Ansar",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "51914da6-cb0f-40d2-8dee-bb07c8bc77a5",
+      "name": "Mugunthan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "73816d57-47ef-44cb-8990-6bf8b7b3ab37",
+      "name": "Saravana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "791497a1-d58f-493a-82bc-b1efe1fb5c28",
+      "name": "Sham",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "77b82322-1f30-43a1-8c38-3fdef21eeb8d",
+      "name": "Sunil",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "4c9f6b6a-9102-4c11-b0fe-22f480b3feb6",
+      "name": "Surya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "2992cbe9-e9e7-412d-99e2-3ea18a425ceb",
+      "name": "Thanishkaran",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "0c7e2276-00c1-4eba-9a9e-b8a4d02b8e68",
+      "name": "Thirukumaran",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "b93fbbed-62ed-4b1b-9157-082bd03b6f02",
+      "name": "Victor",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "5f026a98-8807-41d0-82a5-59001899402b",
+      "name": "Vishwa",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "f8ab429b-516c-469c-8e31-9b0879d422f2",
+      "name": "Yuvanesh",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A"
+    },
+    {
+      "id": "0a254ca3-7c5c-4419-90de-ac60c3791144",
+      "name": "Akash",
+      "isGroup": false,
+      "score": 10,
+      "history": [
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-26T12:47:52.102"
+        },
+        {
+          "score": 110,
+          "comment": "nn",
+          "timestamp": "2025-05-26T14:15:22.077"
+        },
+        {
+          "score": 140,
+          "comment": "nn",
+          "timestamp": "2025-05-26T14:22:20.644"
+        },
+        {
+          "score": 170,
+          "comment": "nn",
+          "timestamp": "2025-05-26T14:30:25.331"
+        },
+        {
+          "score": 110,
+          "comment": "dd",
+          "timestamp": "2025-05-26T22:01:40.778"
+        },
+        {
+          "score": 100,
+          "comment": "nn",
+          "timestamp": "2025-05-26T22:15:15.469"
+        },
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-26T22:33:45.384"
+        },
+        {
+          "score": 100,
+          "comment": "nn",
+          "timestamp": "2025-05-26T22:40:31.553"
+        },
+        {
+          "score": 70,
+          "comment": "nn",
+          "timestamp": "2025-05-26T22:40:35.620"
+        },
+        {
+          "score": 40,
+          "comment": "nn",
+          "timestamp": "2025-05-26T22:40:39.070"
+        },
+        {
+          "score": 20,
+          "comment": "nn",
+          "timestamp": "2025-05-26T22:40:42.938"
+        },
+        {
+          "score": 0,
+          "comment": "n",
+          "timestamp": "2025-05-26T22:40:46.907"
+        },
+        {
+          "score": 10,
+          "comment": "bb",
+          "timestamp": "2025-05-27T12:35:20.449"
+        }
+      ],
+      "classId": "8A"
+    },
+    {
+      "id": "e96b15b6-19ee-42c2-b9dc-6f7a512d5c92",
+      "name": "Aravind",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 80,
+          "comment": "nn",
+          "timestamp": "2025-05-26T12:47:58.885"
+        },
+        {
+          "score": 100,
+          "comment": "nn",
+          "timestamp": "2025-05-26T22:13:11.606"
+        }
+      ],
+      "classId": "8A"
+    },
+    {
+      "id": "5f26b348-85a6-48f9-a424-bfb70aac4380",
+      "name": "Arun",
+      "isGroup": false,
+      "score": 40,
+      "history": [
+        {
+          "score": 130,
+          "comment": "nn",
+          "timestamp": "2025-05-26T13:47:58.459"
+        },
+        {
+          "score": 40,
+          "comment": "nn",
+          "timestamp": "2025-05-26T14:30:47.105"
+        }
+      ],
+      "classId": "8A"
+    },
+    {
+      "id": "468c44e4-46fc-4160-ad60-fd0756b65618",
+      "name": "Bharani",
+      "isGroup": false,
+      "score": 90,
+      "history": [
+        {
+          "score": 90,
+          "comment": "tt",
+          "timestamp": "2025-05-26T14:10:59.122"
+        }
+      ],
+      "classId": "8A"
+    },
+    {
+      "id": "048df249-dbee-44bc-ba90-d2822b53dff2",
+      "name": "Chinna",
+      "isGroup": false,
+      "score": 70,
+      "history": [
+        {
+          "score": 70,
+          "comment": "nn",
+          "timestamp": "2025-05-26T14:11:10.503"
+        }
+      ],
+      "classId": "8A"
+    },
+    {
+      "id": "df427d8d-5d88-4564-917c-38c8de9f4f7c",
+      "name": "Dishwanth",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "2b3fac5d-db86-49e8-8142-578c2c45c47b",
+      "name": "Hemanth",
+      "isGroup": false,
+      "score": 120,
+      "history": [
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-26T14:22:31.219"
+        }
+      ],
+      "classId": "8A"
+    },
+    {
+      "id": "fc4dff75-4b95-4d3c-ab74-4a5939470918",
+      "name": "Kanishkar",
+      "isGroup": false,
+      "score": 120,
+      "history": [
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-26T21:28:04.084"
+        }
+      ],
+      "classId": "8A"
+    },
+    {
+      "id": "122fe446-7872-4aea-8d22-b8879a71586e",
+      "name": "Nabil",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "76cf19ae-705c-41c3-861f-bb81dfa3c89b",
+      "name": "Riyaz",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "76f6a9f8-7702-433a-819e-c105b66be028",
+      "name": "S Roshan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "8f969e2d-277b-47cf-87fd-9fc969855201",
+      "name": "H Roshan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "a8f43bbd-89ad-4d00-acf4-219d9a0a671f",
+      "name": "Sabari",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "7cff899c-b12c-4d72-b425-cb45fabcbfcf",
+      "name": "Sai Charan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "15dd25a4-64e5-4e94-938a-b59897104aa8",
+      "name": "Shankar",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "135c482c-b85b-4f17-ab11-ea994bffbd6f",
+      "name": "Sathya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "571b1cf8-b9ef-49ea-89d9-6985af21fed6",
+      "name": "Srinee",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "8cc8e4c3-e212-4795-a9e3-009aa55c16ec",
+      "name": "Sudeep",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "6185552a-751b-4ea7-a3e4-e7dc7b05182b",
+      "name": "Vaidee",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "2f4d887b-564c-45c2-a52b-24916ccc4588",
+      "name": "Divya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "5d20b9a0-9631-481a-a407-ff98ea0db6b9",
+      "name": "Durga",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "e8a57a0b-635f-432e-96bf-723dea00521f",
+      "name": "Lithisri",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "4da63149-05a8-4f1f-b4e5-89d5b9724650",
+      "name": "Maha N",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "c87d2381-abd6-4108-873a-708e81fb0646",
+      "name": "Monisha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "305c9beb-3857-4831-909e-c670fc7b21c5",
+      "name": "Preethi",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "b7403ba1-3c36-412d-8ab6-a493c234cc8e",
+      "name": "Rajalakshmi",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "c3280fae-ef97-435e-b4ec-c583042b0021",
+      "name": "Rakshitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "8488ff16-5a76-4fd9-b02b-9ff41801b112",
+      "name": "Ramya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "98b9c7b7-79e9-45a7-9370-9bd44926e8ad",
+      "name": "S Roshini",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "e08dc373-9085-496f-899a-74b581ac991d",
+      "name": "Sasti",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "cb5f195d-419c-40f0-b120-73d7f50eaf95",
+      "name": "Shamitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "7de45496-a011-4b0c-b70f-85531665947e",
+      "name": "Shana",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "7e045602-80c9-438e-b187-4d8b9484756e",
+      "name": "Suba",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "0cc86c87-a39b-47c2-9f92-d2ff438b91eb",
+      "name": "Swetha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "12f3058a-21b1-4180-995f-ea3f4f6cd534",
+      "name": "Vinitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "601ea362-e3d3-455a-95bb-3d9c09cb70df",
+      "name": "Yazhini",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    },
+    {
+      "id": "5fc209af-7551-4f82-b628-c8996fbe7a01",
+      "name": "Rishi Rohan",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "8A"
+    }
+  ]
+}

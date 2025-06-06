@@ -1,0 +1,71 @@
+    # Miscellaneous
+    *.class
+    *.log
+    *.pyc
+    *.swp
+    .DS_Store
+    .atom/
+    .buildlog/
+    .history
+    .svn/
+    .swiftpm/
+    migrate_working_dir/
+
+    # IntelliJ related
+    *.iml
+    *.ipr
+    *.iws
+    .idea/
+
+    # The .vscode folder contains launch configuration and tasks you configure in
+    # VS Code which you may wish to be included in version control, so this line
+    # is commented out by default.
+    #.vscode/
+
+    # Flutter generated files and build artifacts
+    .dart_tool/
+    .flutter-plugins
+    .flutter-plugins-dependencies
+    .packages
+    *.lock
+    *.g.dart
+    *.freezed.dart
+    firebase_options.dart # Contains API keys, should generally be ignored
+
+    # Build output: Ignore all direct children of 'build/' but specifically
+    # include the 'web' directory and its contents for GitHub Pages
+    /build/ # This line ignores the top-level 'build' directory itself.
+    !/build/web/ # This line UNignores the 'web' subdirectory within 'build'.
+    !/build/web/** # This line UNignores ALL files and subdirectories within 'build/web'.
+
+    # Node.js modules and output (CRITICAL to ignore if you have a local server)
+    node_modules/
+    npm-debug.log
+    .npm/
+
+    # Android specific
+    android/local.properties
+    android/.gradle
+    android/build/
+    android/.idea/
+    android/app/build/
+    android/app/.cxx/
+    android/app/.externalNativeBuild/
+
+    # iOS specific
+    ios/.symlinks/
+    ios/Flutter/Generated.xcconfig
+    ios/Flutter/flutter_export_environment.sh
+    ios/Pods/
+    ios/.fvm/
+
+    # Node.js server data (if running locally in project root)
+    backups/
+    data/
+    current_data.json
+    data.json
+    activity_log.json
+
+    # Personal files that might be accidentally added if git init was higher up
+    Downloads/
+    

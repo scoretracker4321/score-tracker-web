@@ -1,0 +1,48 @@
+{
+  "winners": [
+    {
+      "id": "100af796-08f4-4b83-9f22-26817f3b12f5",
+      "name": "Hemanth",
+      "score": 120,
+      "classId": "8A",
+      "isGroup": false,
+      "selectionDate": "2025-05-26T22:14:58.385",
+      "periodDescription": "May 1, 2025 - May 26, 2025",
+      "startDate": "2025-05-01T00:00:00.000",
+      "endDate": "2025-05-26T00:00:00.000"
+    },
+    {
+      "id": "d93c5dfb-c598-42d5-a256-d4c1fa9e2b20",
+      "name": "Kanishkar",
+      "score": 120,
+      "classId": "8A",
+      "isGroup": false,
+      "selectionDate": "2025-05-26T22:14:58.385",
+      "periodDescription": "May 1, 2025 - May 26, 2025",
+      "startDate": "2025-05-01T00:00:00.000",
+      "endDate": "2025-05-26T00:00:00.000"
+    },
+    {
+      "id": "6ae7d26c-e703-4041-b1ec-fb87bc3dae5a",
+      "name": "Akash",
+      "score": 120,
+      "classId": "8A",
+      "isGroup": false,
+      "selectionDate": "2025-05-26T22:34:54.368",
+      "periodDescription": "Apr 1, 2025 - May 26, 2025",
+      "startDate": "2025-04-01T00:00:00.000",
+      "endDate": "2025-05-26T00:00:00.000"
+    },
+    {
+      "id": "0730a1fb-4ece-44be-bd31-9fecb88a3f86",
+      "name": "Hemanth",
+      "score": 120,
+      "classId": "8A",
+      "isGroup": false,
+      "selectionDate": "2025-05-26T22:34:54.368",
+      "periodDescription": "Apr 1, 2025 - May 26, 2025",
+      "startDate": "2025-04-01T00:00:00.000",
+      "endDate": "2025-05-26T00:00:00.000"
+    }
+  ]
+}

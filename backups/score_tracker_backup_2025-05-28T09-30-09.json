@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "Akash",
+      "isGroup": false,
+      "score": 120,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score",
+          "timestamp": "2025-05-28T09:29:21.493Z"
+        },
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-28T09:29:45.675Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "8c11eb81-00ab-4064-845e-4a7113711f61",
+      "memberIds": null
+    },
+    {
+      "name": "Aravind",
+      "isGroup": false,
+      "score": 120,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score",
+          "timestamp": "2025-05-28T09:29:30.554Z"
+        },
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-28T09:29:45.675Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "00b81716-8d0d-4638-9490-25f9203324ec",
+      "memberIds": null
+    }
+  ]
+}

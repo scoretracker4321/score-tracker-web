@@ -1,0 +1,1551 @@
+{
+  "data": [
+    {
+      "name": "Akash",
+      "isGroup": false,
+      "score": 150,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score",
+          "timestamp": "2025-05-28T09:29:21.493Z"
+        },
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-28T09:29:45.675Z"
+        },
+        {
+          "score": 70,
+          "comment": "tt",
+          "timestamp": "2025-05-28T09:30:27.528Z"
+        },
+        {
+          "score": 120,
+          "comment": "Multi-edit: +50 points",
+          "timestamp": "2025-05-28T16:12:00.720Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 180,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        },
+        {
+          "score": 150,
+          "comment": "nnn",
+          "timestamp": "2025-05-28T21:48:28.726"
+        }
+      ],
+      "classId": "8A",
+      "id": "8c11eb81-00ab-4064-845e-4a7113711f61",
+      "memberIds": null
+    },
+    {
+      "name": "Aravind",
+      "isGroup": false,
+      "score": 140,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score",
+          "timestamp": "2025-05-28T09:29:30.554Z"
+        },
+        {
+          "score": 120,
+          "comment": "nn",
+          "timestamp": "2025-05-28T09:29:45.675Z"
+        },
+        {
+          "score": 70,
+          "comment": "tt",
+          "timestamp": "2025-05-28T09:30:27.528Z"
+        },
+        {
+          "score": 120,
+          "comment": "Multi-edit: +50 points",
+          "timestamp": "2025-05-28T16:12:00.720Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 180,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        },
+        {
+          "score": 140,
+          "comment": "nn",
+          "timestamp": "2025-05-28T21:48:24.959"
+        }
+      ],
+      "classId": "8A",
+      "id": "00b81716-8d0d-4638-9490-25f9203324ec",
+      "memberIds": null
+    },
+    {
+      "name": "Arun",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.393Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "772c2d42-5a2d-4961-b91e-925726d4d03b",
+      "memberIds": null
+    },
+    {
+      "name": "Bharani",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.393Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "edea9478-4102-407d-a08b-594dd80b3e7a",
+      "memberIds": null
+    },
+    {
+      "name": "Chinna",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.393Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "817dbd65-7f28-433a-bd30-4db3e1fce962",
+      "memberIds": null
+    },
+    {
+      "name": "Dishwanth",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "a13ea6a3-a21f-4219-b155-e528e73326f3",
+      "memberIds": null
+    },
+    {
+      "name": "Hemanth",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "52051041-8156-47dd-b786-2e9ada3721fe",
+      "memberIds": null
+    },
+    {
+      "name": "Kanishkar",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "7d37a231-80e1-4a78-8657-75b9d293e78b",
+      "memberIds": null
+    },
+    {
+      "name": "Nabil",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "ae96ccb2-1f33-4d81-9828-ad4b1e640316",
+      "memberIds": null
+    },
+    {
+      "name": "Riyaz",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "e33fb0a3-74ee-468f-b926-4768f1afa1f1",
+      "memberIds": null
+    },
+    {
+      "name": "S Roshan",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "165cac01-9fef-4958-b9dc-74d5b8b7fa40",
+      "memberIds": null
+    },
+    {
+      "name": "H Roshan",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "a7f4c19c-18d7-470e-956d-77938d75323e",
+      "memberIds": null
+    },
+    {
+      "name": "Sabari",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "97978282-8e19-4f90-a5e2-31a7186c4a49",
+      "memberIds": null
+    },
+    {
+      "name": "Sai Charan",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "6dac7342-71c2-4540-af66-b95ab3650b96",
+      "memberIds": null
+    },
+    {
+      "name": "Shankar",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "65fce241-79b4-4c01-b435-4cbceb16a68d",
+      "memberIds": null
+    },
+    {
+      "name": "Sathya",
+      "isGroup": false,
+      "score": 170,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        },
+        {
+          "score": 170,
+          "comment": "Multi-edit: +10 points",
+          "timestamp": "2025-05-28T16:18:48.831Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "92aa683b-4f1a-4711-bf61-2831b2a4c163",
+      "memberIds": null
+    },
+    {
+      "name": "Srinee",
+      "isGroup": false,
+      "score": 170,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        },
+        {
+          "score": 170,
+          "comment": "Multi-edit: +10 points",
+          "timestamp": "2025-05-28T16:18:48.831Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "076b0ad5-01ec-4f74-9281-8d699d9e4042",
+      "memberIds": null
+    },
+    {
+      "name": "Sudeep",
+      "isGroup": false,
+      "score": 170,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        },
+        {
+          "score": 170,
+          "comment": "Multi-edit: +10 points",
+          "timestamp": "2025-05-28T16:18:48.831Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "d336bb6c-d3f3-45e4-855f-b6cd709e1743",
+      "memberIds": null
+    },
+    {
+      "name": "Vaidee",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "5124bfac-9e63-4be1-9dc3-90786d9e8a6c",
+      "memberIds": null
+    },
+    {
+      "name": "Divya",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "cd049a75-6c7b-4361-94c8-5be0a844e695",
+      "memberIds": null
+    },
+    {
+      "name": "Durga",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "e3d9f256-da16-4dc0-8244-fb548b60de41",
+      "memberIds": null
+    },
+    {
+      "name": "Lithisri",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "22b94cbf-30c3-4050-849e-7cb441f573d3",
+      "memberIds": null
+    },
+    {
+      "name": "Maha N",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "1973b70f-15c8-4566-922b-aea367098e53",
+      "memberIds": null
+    },
+    {
+      "name": "Monisha",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "e089165f-a1d4-4cbe-b488-7f698ed66f10",
+      "memberIds": null
+    },
+    {
+      "name": "Preethi",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "bae0b3ed-0207-40d8-8b7a-6c86e73712f5",
+      "memberIds": null
+    },
+    {
+      "name": "Rajalakshmi",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "62c092eb-75c0-4653-b6dd-5f849eaabb3a",
+      "memberIds": null
+    },
+    {
+      "name": "Rakshitha",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "216307f7-4129-4303-aabf-2e68ad11ca89",
+      "memberIds": null
+    },
+    {
+      "name": "Ramya",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "0f102a76-32ae-4ea4-84a7-1ce114446f58",
+      "memberIds": null
+    },
+    {
+      "name": "S Roshini",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "6a757b96-6098-47b2-9e8b-477129a7dcf6",
+      "memberIds": null
+    },
+    {
+      "name": "Sasti",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "9970f910-66e8-4376-9d64-b609604b7cb4",
+      "memberIds": null
+    },
+    {
+      "name": "Shamitha",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "12d058c1-3f88-443b-b884-ecd4a849119c",
+      "memberIds": null
+    },
+    {
+      "name": "Shana",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "4cd1eef9-59dd-4c71-874c-252517e81ceb",
+      "memberIds": null
+    },
+    {
+      "name": "Suba",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "c1f063ff-ea0b-40b0-a0e0-2be483a1cecc",
+      "memberIds": null
+    },
+    {
+      "name": "Swetha",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "b7cb2471-4692-4194-8cfc-ab6b0981cd13",
+      "memberIds": null
+    },
+    {
+      "name": "Vinitha",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "eecb0c95-5bbb-4d4a-85fc-20f0eef89466",
+      "memberIds": null
+    },
+    {
+      "name": "Yazhini",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "a548d484-0d7a-4870-96eb-dade6e6c336e",
+      "memberIds": null
+    },
+    {
+      "name": "Rishi Rohan",
+      "isGroup": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        },
+        {
+          "score": 140,
+          "comment": "Multi-edit: +40 points",
+          "timestamp": "2025-05-28T16:16:59.830Z"
+        },
+        {
+          "score": 160,
+          "comment": "Multi-edit: +20 points",
+          "timestamp": "2025-05-28T16:18:05.267Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "e94a8377-d9ed-4aaf-9bd7-b14eef0548e5",
+      "memberIds": null
+    },
+    {
+      "name": "Baseera",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "dee4d669-7f05-469d-ae4a-a84569cae54b",
+      "memberIds": null
+    },
+    {
+      "name": "Dhanalakshmi",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "b97d447e-4fd5-4c5c-9d2f-34061fac6c0b",
+      "memberIds": null
+    },
+    {
+      "name": "Doshani",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "c51c1611-1a23-44c5-8d81-f9f37c00a731",
+      "memberIds": null
+    },
+    {
+      "name": "Kaviya",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "71c7f0cb-9396-4a87-984b-d86f6f4777bd",
+      "memberIds": null
+    },
+    {
+      "name": "Kiruthika",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "8dab63d4-b77b-4886-9114-1402bf31d15a",
+      "memberIds": null
+    },
+    {
+      "name": "Lekha",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "cd548c0e-d13a-4170-a945-1375c575e62a",
+      "memberIds": null
+    },
+    {
+      "name": "Madhivadhini",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "45e7889d-6503-48ad-9c3e-757ae2e893e1",
+      "memberIds": null
+    },
+    {
+      "name": "Madhumitha",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "72170a44-fadf-4dd1-9ed8-2c8450711c53",
+      "memberIds": null
+    },
+    {
+      "name": "Ranjana",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "a7c172e1-c03d-40ed-9674-39b80b0ed56f",
+      "memberIds": null
+    },
+    {
+      "name": "Rizmeeriya",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "aa382814-e1a6-465c-a31f-740ba479e500",
+      "memberIds": null
+    },
+    {
+      "name": "Sanjana",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "8efccafc-3416-45d3-bd2b-29880f7b44d4",
+      "memberIds": null
+    },
+    {
+      "name": "Sathiya",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "1a9c766b-4b85-4586-b05a-2dd922dd8286",
+      "memberIds": null
+    },
+    {
+      "name": "Sridivya",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "065f3c1b-33e9-4445-89c0-8b66607b32dd",
+      "memberIds": null
+    },
+    {
+      "name": "Suroshya",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "50516a65-c306-419d-a6e8-c04a2d1c848d",
+      "memberIds": null
+    },
+    {
+      "name": "Varshini Sasikumar",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "2f37bc56-3993-41ac-90bf-f1c1c5df6618",
+      "memberIds": null
+    },
+    {
+      "name": "Varshini Srinivasan",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "3cf47657-2f84-4cda-ad68-9e63798882d4",
+      "memberIds": null
+    },
+    {
+      "name": "Abjal",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "cadb1135-af27-49ea-89a4-856c90bbcaf2",
+      "memberIds": null
+    },
+    {
+      "name": "Ariya",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "feba41b0-4aab-4766-8602-9e1bf093c663",
+      "memberIds": null
+    },
+    {
+      "name": "Gugan",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "b05ea0c1-9924-40ed-a590-50466b2f6e3a",
+      "memberIds": null
+    },
+    {
+      "name": "Inbaraj",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "f7193365-faa5-4bca-a03f-b4a83d57368a",
+      "memberIds": null
+    },
+    {
+      "name": "Karthik",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "24257072-ab69-445e-834f-dcd12348dbe6",
+      "memberIds": null
+    },
+    {
+      "name": "Krishna",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "56c67867-c2f3-4a8f-90b6-1ca2e306f36c",
+      "memberIds": null
+    },
+    {
+      "name": "Lithish",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "0fc8f3f1-5242-465f-880a-e76a42004c68",
+      "memberIds": null
+    },
+    {
+      "name": "Mathesh",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "6a3d60b0-eae0-4d8a-99d5-1cc6c98a11a6",
+      "memberIds": null
+    },
+    {
+      "name": "Ansar",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "f9044a83-6037-48c6-a62c-18b4ed3e4a88",
+      "memberIds": null
+    },
+    {
+      "name": "Mugunthan",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "523cacf6-69bb-4871-9dd0-9312b0f52ee1",
+      "memberIds": null
+    },
+    {
+      "name": "Saravana",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "b96903fa-143a-48cd-a5c1-73d63a18602a",
+      "memberIds": null
+    },
+    {
+      "name": "Sham",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "0346f06b-5605-4d7b-a9f8-a9a41475fcf4",
+      "memberIds": null
+    },
+    {
+      "name": "Sunil",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "900cd893-89de-4d36-b7d0-28e671e3b70b",
+      "memberIds": null
+    },
+    {
+      "name": "Surya",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "b773bed1-e52e-42f2-bc34-90d82452ac80",
+      "memberIds": null
+    },
+    {
+      "name": "Thanishkaran",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "bfe4d0c7-dda8-4fce-97a1-f80645282b39",
+      "memberIds": null
+    },
+    {
+      "name": "Thirukumaran",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.394Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "f225037b-be0e-4050-ae93-8e0aa24c8d79",
+      "memberIds": null
+    },
+    {
+      "name": "Victor",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.395Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "510ddd28-cdec-47fa-a67f-a3c19baebf4d",
+      "memberIds": null
+    },
+    {
+      "name": "Vishwa",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.395Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "9d14c965-23fa-4218-a238-0ae447f3fece",
+      "memberIds": null
+    },
+    {
+      "name": "Yuvanesh",
+      "isGroup": false,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score from CSV upload",
+          "timestamp": "2025-05-28T16:16:38.395Z"
+        }
+      ],
+      "classId": "7A",
+      "id": "cf987012-2e7b-4501-99d1-ac1b16173cf0",
+      "memberIds": null
+    },
+    {
+      "name": "Test1",
+      "isGroup": true,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score",
+          "timestamp": "2025-05-28T16:31:34.173Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "c1601841-8850-4bbc-877d-b9567bb4482a",
+      "memberIds": [
+        "817dbd65-7f28-433a-bd30-4db3e1fce962",
+        "52051041-8156-47dd-b786-2e9ada3721fe",
+        "e33fb0a3-74ee-468f-b926-4768f1afa1f1",
+        "ae96ccb2-1f33-4d81-9828-ad4b1e640316",
+        "7d37a231-80e1-4a78-8657-75b9d293e78b"
+      ]
+    },
+    {
+      "name": "Test2",
+      "isGroup": true,
+      "score": 100,
+      "history": [
+        {
+          "score": 100,
+          "comment": "Initial score",
+          "timestamp": "2025-05-28T16:31:52.620Z"
+        }
+      ],
+      "classId": "8A",
+      "id": "62b5bd07-4b27-421b-9652-e47c4ef6e375",
+      "memberIds": [
+        "6a757b96-6098-47b2-9e8b-477129a7dcf6",
+        "0f102a76-32ae-4ea4-84a7-1ce114446f58",
+        "216307f7-4129-4303-aabf-2e68ad11ca89",
+        "b7cb2471-4692-4194-8cfc-ab6b0981cd13",
+        "eecb0c95-5bbb-4d4a-85fc-20f0eef89466"
+      ]
+    }
+  ]
+}

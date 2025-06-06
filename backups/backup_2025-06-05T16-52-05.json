@@ -1,0 +1,7209 @@
+{
+  "timestamp": "2025-06-05T16:52:05.594Z",
+  "students": [
+    {
+      "id": "0Rjn8bc1giDae9pdjnV1",
+      "name": "S Roshan",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "1MWEiRB1a2fCIcq8pkdI",
+      "name": "Nabil",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "4XpYx6BBLPkivw1ELIpl",
+      "name": "Gugan",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 150,
+      "history": [
+        {
+          "score": 90,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748869431,
+            "_nanoseconds": 253075000
+          }
+        },
+        {
+          "score": 110,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923977,
+            "_nanoseconds": 18395000
+          }
+        },
+        {
+          "score": 130,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930677,
+            "_nanoseconds": 637581000
+          }
+        },
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014405,
+            "_nanoseconds": 150025000
+          }
+        },
+        {
+          "score": 125,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014778,
+            "_nanoseconds": 355363000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103386,
+            "_nanoseconds": 377043000
+          }
+        }
+      ]
+    },
+    {
+      "id": "4YnxNnBtyhZObEeUsGQG",
+      "name": "Bharani",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "51rNo0AbXnlx0ivXBOfx",
+      "name": "Divya",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "5Y5wIGLWNZSveDlXxf39",
+      "name": "Karthik",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": true
+    },
+    {
+      "id": "6RCznxjuxU4XNvKdbCf7",
+      "name": "Rakshitha",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "6WwZKXdYmtkJ8kMjlr2q",
+      "name": "Rizmeeriya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": true
+    },
+    {
+      "id": "7S4w5becWcSnCdAQHeh7",
+      "name": "Sridivya",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 210,
+      "history": [
+        {
+          "score": 120,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924462,
+            "_nanoseconds": 277647000
+          }
+        },
+        {
+          "score": 140,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748931958,
+            "_nanoseconds": 137800000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013255,
+            "_nanoseconds": 427149000
+          }
+        },
+        {
+          "score": 200,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102909,
+            "_nanoseconds": 641381000
+          }
+        },
+        {
+          "score": 230,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103763,
+            "_nanoseconds": 778818000
+          }
+        },
+        {
+          "score": 210,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103861,
+            "_nanoseconds": 508490000
+          }
+        }
+      ]
+    },
+    {
+      "id": "8XukWPxXlZWWTXT9H9Eu",
+      "name": "Dishwanth",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "8w0nLpLV6E5EeIPHcaXf",
+      "name": "S Roshini",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "9nKZMmFtLzAASsSrC8sg",
+      "classId": "7A",
+      "name": "Yogitha ",
+      "isGroup": false,
+      "memberIds": null,
+      "isArchived": false,
+      "score": 130,
+      "history": [
+        {
+          "score": 100,
+          "reason": null,
+          "customComment": null,
+          "timestamp": {
+            "_seconds": 1748852022,
+            "_nanoseconds": 55374000
+          }
+        },
+        {
+          "score": 120,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748927589,
+            "_nanoseconds": 20616000
+          }
+        },
+        {
+          "score": 130,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102870,
+            "_nanoseconds": 115074000
+          }
+        }
+      ]
+    },
+    {
+      "id": "9qWcoi7xzOkGjk81yqpP",
+      "name": "Shamitha",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "B6gPxUgGCgJtgNFjCLyV",
+      "name": "Monisha",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "BvqIegYureEqvSccmPJS",
+      "name": "Sabari",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "CagmbsRXc020M5Gylny8",
+      "name": "Sanjana",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 190,
+      "history": [
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925511,
+            "_nanoseconds": 550195000
+          }
+        },
+        {
+          "score": 165,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013586,
+            "_nanoseconds": 609263000
+          }
+        },
+        {
+          "score": 190,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102951,
+            "_nanoseconds": 457628000
+          }
+        }
+      ]
+    },
+    {
+      "id": "CyGip1dvNdTDBUKfFFn0",
+      "name": "Doshani",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 160,
+      "history": [
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925799,
+            "_nanoseconds": 460554000
+          }
+        },
+        {
+          "score": 115,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926572,
+            "_nanoseconds": 940075000
+          }
+        },
+        {
+          "score": 105,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930605,
+            "_nanoseconds": 82732000
+          }
+        },
+        {
+          "score": 135,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011447,
+            "_nanoseconds": 122255000
+          }
+        },
+        {
+          "score": 160,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101072,
+            "_nanoseconds": 17740000
+          }
+        }
+      ]
+    },
+    {
+      "id": "DRGaZXvXGdEewsvS8EaW",
+      "name": "Varshini Srinivasan",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "score": 190,
+      "history": [
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925286,
+            "_nanoseconds": 995190000
+          }
+        },
+        {
+          "score": 135,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926545,
+            "_nanoseconds": 154377000
+          }
+        },
+        {
+          "score": 165,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748929530,
+            "_nanoseconds": 611771000
+          }
+        },
+        {
+          "score": 190,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014659,
+            "_nanoseconds": 765603000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "Edra4p7BHvu3MdK68KPj",
+      "name": "Saravana",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 175,
+      "history": [
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923445,
+            "_nanoseconds": 610965000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925001,
+            "_nanoseconds": 313098000
+          }
+        },
+        {
+          "score": 130,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926601,
+            "_nanoseconds": 629523000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014574,
+            "_nanoseconds": 31817000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101664,
+            "_nanoseconds": 493672000
+          }
+        }
+      ]
+    },
+    {
+      "id": "FANQKZQxGy08lqNIuvZ1",
+      "classId": "7A",
+      "name": "Gang queens",
+      "isGroup": true,
+      "memberIds": [
+        "9nKZMmFtLzAASsSrC8sg",
+        "ONSBgKehd6xEiJJEgvS0",
+        "SeKbGSBTNAuxfwJa4Wsd",
+        "WOooAeiJHIpiwd9fNsSf",
+        "glxVOiOtbLPS7UgcEIDt",
+        "rzyXEm35gEvMws5btD5T",
+        "7S4w5becWcSnCdAQHeh7"
+      ],
+      "score": 170,
+      "history": [
+        {
+          "score": 100,
+          "reason": null,
+          "customComment": null,
+          "timestamp": {
+            "_seconds": 1748856878,
+            "_nanoseconds": 581351000
+          }
+        },
+        {
+          "score": 180,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019182,
+            "_nanoseconds": 559936000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019195,
+            "_nanoseconds": 857596000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "FqsqrAnwevUf8inZlV0C",
+      "name": "Baseera",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 195,
+      "history": [
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926250,
+            "_nanoseconds": 339804000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014155,
+            "_nanoseconds": 22728000
+          }
+        },
+        {
+          "score": 195,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103805,
+            "_nanoseconds": 521882000
+          }
+        }
+      ]
+    },
+    {
+      "id": "GlfOVQYcl6k2wrCAJxHK",
+      "classId": "7A",
+      "name": "Raistar",
+      "isGroup": true,
+      "memberIds": [
+        "WJVojffpjF1DubOT0bTa",
+        "eKTskn5JsfdUYwt6PzqB",
+        "nKolAqxar0bLK3xGvEjn",
+        "Edra4p7BHvu3MdK68KPj",
+        "PYsMbcToMkiHa51G43ql",
+        "OODyE1itBb4ru8Xle6XV"
+      ],
+      "score": 175,
+      "history": [
+        {
+          "score": 100,
+          "reason": null,
+          "customComment": null,
+          "timestamp": {
+            "_seconds": 1748856615,
+            "_nanoseconds": 475952000
+          }
+        },
+        {
+          "score": 220,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019303,
+            "_nanoseconds": 86386000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019318,
+            "_nanoseconds": 278732000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "GloMfP8AfQv9ASgAlKBJ",
+      "name": "Suba",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "IdLjJQsVeUJJq1CtSFq6",
+      "name": "Arun",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "J3nfgB2w7jkvG88H0mwn",
+      "name": "Sunil",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 170,
+      "history": [
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923407,
+            "_nanoseconds": 85722000
+          }
+        },
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924843,
+            "_nanoseconds": 875000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101509,
+            "_nanoseconds": 818960000
+          }
+        }
+      ]
+    },
+    {
+      "id": "JbdSATfSZGjdaGWAuQDf",
+      "name": "Lekha",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": true
+    },
+    {
+      "id": "KPJrm8bJOmVjWPpQeNkD",
+      "name": "Rajalakshmi",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "L1sK1SAlNDYfTkRNRfAi",
+      "name": "Rishi Rohan",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "OB4nhyeZLkK3LkSt6urj",
+      "name": "Lithisri",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "ONSBgKehd6xEiJJEgvS0",
+      "name": "Dhanalakshmi",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 225,
+      "history": [
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926071,
+            "_nanoseconds": 481314000
+          }
+        },
+        {
+          "score": 200,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011478,
+            "_nanoseconds": 975029000
+          }
+        },
+        {
+          "score": 225,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101593,
+            "_nanoseconds": 312884000
+          }
+        }
+      ]
+    },
+    {
+      "id": "OODyE1itBb4ru8Xle6XV",
+      "name": "Inbaraj",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 145,
+      "history": [
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924054,
+            "_nanoseconds": 165374000
+          }
+        },
+        {
+          "score": 115,
+          "reason": "Custom",
+          "customComment": "imposition given",
+          "timestamp": {
+            "_seconds": 1749023192,
+            "_nanoseconds": 507474000
+          }
+        },
+        {
+          "score": 135,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749023398,
+            "_nanoseconds": 434081000
+          }
+        },
+        {
+          "score": 165,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102753,
+            "_nanoseconds": 799293000
+          }
+        },
+        {
+          "score": 145,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103844,
+            "_nanoseconds": 899009000
+          }
+        }
+      ]
+    },
+    {
+      "id": "OlnJgGXhIRS4PrKQealv",
+      "name": "Suroshya",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": true
+    },
+    {
+      "id": "OxaTvkBG7uJFIOIqWX3u",
+      "name": "Sham",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 155,
+      "history": [
+        {
+          "score": 155,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011410,
+            "_nanoseconds": 721319000
+          }
+        },
+        {
+          "score": 125,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014836,
+            "_nanoseconds": 677336000
+          }
+        },
+        {
+          "score": 155,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101315,
+            "_nanoseconds": 630401000
+          }
+        }
+      ]
+    },
+    {
+      "id": "PN0hRg5ea24Q56dMtg85",
+      "name": "Maha N",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "PNqhAc25ziMgIuHXS125",
+      "name": "Krishna",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 230,
+      "history": [
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923729,
+            "_nanoseconds": 879423000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930693,
+            "_nanoseconds": 349350000
+          }
+        },
+        {
+          "score": 200,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011197,
+            "_nanoseconds": 703404000
+          }
+        },
+        {
+          "score": 230,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102618,
+            "_nanoseconds": 519102000
+          }
+        }
+      ]
+    },
+    {
+      "id": "PYsMbcToMkiHa51G43ql",
+      "name": "Mugunthan",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 265,
+      "history": [
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923346,
+            "_nanoseconds": 367813000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925039,
+            "_nanoseconds": 7550000
+          }
+        },
+        {
+          "score": 180,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930202,
+            "_nanoseconds": 477801000
+          }
+        },
+        {
+          "score": 220,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930722,
+            "_nanoseconds": 839023000
+          }
+        },
+        {
+          "score": 250,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014302,
+            "_nanoseconds": 942263000
+          }
+        },
+        {
+          "score": 285,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101384,
+            "_nanoseconds": 943359000
+          }
+        },
+        {
+          "score": 265,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103888,
+            "_nanoseconds": 879187000
+          }
+        }
+      ]
+    },
+    {
+      "id": "Py3z8gFnyk6wTD7QIzoq",
+      "name": "Kanishkar",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "RHHMRI8p6lfg9U1vFLP8",
+      "name": "Lithish",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 175,
+      "history": [
+        {
+          "score": 130,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924409,
+            "_nanoseconds": 55253000
+          }
+        },
+        {
+          "score": 110,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926611,
+            "_nanoseconds": 640702000
+          }
+        },
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930705,
+            "_nanoseconds": 259505000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013967,
+            "_nanoseconds": 418270000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102672,
+            "_nanoseconds": 914387000
+          }
+        }
+      ]
+    },
+    {
+      "id": "SeKbGSBTNAuxfwJa4Wsd",
+      "name": "Kaviya",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 180,
+      "history": [
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926169,
+            "_nanoseconds": 494820000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013168,
+            "_nanoseconds": 907300000
+          }
+        },
+        {
+          "score": 180,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102996,
+            "_nanoseconds": 389707000
+          }
+        }
+      ]
+    },
+    {
+      "id": "TSVuu0nS8gaUKTj2kMFo",
+      "name": "Shankar",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "WJVojffpjF1DubOT0bTa",
+      "name": "Abjal",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 225,
+      "history": [
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925089,
+            "_nanoseconds": 54400000
+          }
+        },
+        {
+          "score": 135,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926561,
+            "_nanoseconds": 135511000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748929601,
+            "_nanoseconds": 58034000
+          }
+        },
+        {
+          "score": 165,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930622,
+            "_nanoseconds": 49753000
+          }
+        },
+        {
+          "score": 195,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930665,
+            "_nanoseconds": 446152000
+          }
+        },
+        {
+          "score": 220,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014546,
+            "_nanoseconds": 529632000
+          }
+        },
+        {
+          "score": 200,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014753,
+            "_nanoseconds": 226828000
+          }
+        },
+        {
+          "score": 225,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102834,
+            "_nanoseconds": 394854000
+          }
+        }
+      ]
+    },
+    {
+      "id": "WMGrzzddmOvo32ZYzqZs",
+      "name": "Surya",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 250,
+      "history": [
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923523,
+            "_nanoseconds": 207854000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926451,
+            "_nanoseconds": 123025000
+          }
+        },
+        {
+          "score": 200,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011132,
+            "_nanoseconds": 832533000
+          }
+        },
+        {
+          "score": 225,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749012414,
+            "_nanoseconds": 201855000
+          }
+        },
+        {
+          "score": 250,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102528,
+            "_nanoseconds": 155980000
+          }
+        }
+      ]
+    },
+    {
+      "id": "WOooAeiJHIpiwd9fNsSf",
+      "name": "Madhumitha",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 315,
+      "history": [
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924749,
+            "_nanoseconds": 884976000
+          }
+        },
+        {
+          "score": 255,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748931754,
+            "_nanoseconds": 880371000
+          }
+        },
+        {
+          "score": 285,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013834,
+            "_nanoseconds": 172979000
+          }
+        },
+        {
+          "score": 315,
+          "reason": "Class participation",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101149,
+            "_nanoseconds": 449963000
+          }
+        }
+      ]
+    },
+    {
+      "id": "ZfuNN4afokwQ1RsqB1Fr",
+      "name": "Mathesh",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "score": 175,
+      "history": [
+        {
+          "score": 170,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925702,
+            "_nanoseconds": 772260000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930635,
+            "_nanoseconds": 176400000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011262,
+            "_nanoseconds": 92848000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "aXn5wMNzWfinuGVevN6m",
+      "name": "Ranjana",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "score": 200,
+      "history": [
+        {
+          "score": 165,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925374,
+            "_nanoseconds": 327787000
+          }
+        },
+        {
+          "score": 195,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748932179,
+            "_nanoseconds": 313658000
+          }
+        },
+        {
+          "score": 220,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013687,
+            "_nanoseconds": 25695000
+          }
+        },
+        {
+          "score": 200,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014804,
+            "_nanoseconds": 797740000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "aXsP0m9cLxiYhSpMy7zt",
+      "name": "Sathya",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "cvNW1JIseZOVecYyReL2",
+      "name": "Akash",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": true
+    },
+    {
+      "id": "dCDlolsx1Lah8I65bkBh",
+      "name": "Ariya",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 150,
+      "history": [
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011645,
+            "_nanoseconds": 638747000
+          }
+        },
+        {
+          "score": 150,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101435,
+            "_nanoseconds": 127155000
+          }
+        }
+      ]
+    },
+    {
+      "id": "dvqH0WKFMAJZCLcNWrbw",
+      "name": "Sasti",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "eKTskn5JsfdUYwt6PzqB",
+      "name": "Ansar",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 235,
+      "history": [
+        {
+          "score": 155,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925447,
+            "_nanoseconds": 375297000
+          }
+        },
+        {
+          "score": 135,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926586,
+            "_nanoseconds": 628180000
+          }
+        },
+        {
+          "score": 165,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930652,
+            "_nanoseconds": 506303000
+          }
+        },
+        {
+          "score": 190,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014452,
+            "_nanoseconds": 2320000
+          }
+        },
+        {
+          "score": 210,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749025717,
+            "_nanoseconds": 22060000
+          }
+        },
+        {
+          "score": 235,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749102580,
+            "_nanoseconds": 528790000
+          }
+        }
+      ]
+    },
+    {
+      "id": "eNIHdOWDFO7pKm1WrIT5",
+      "name": "Durga",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "fmHiOQyNHtx1S59hjNf5",
+      "name": "Vinitha",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "glxVOiOtbLPS7UgcEIDt",
+      "name": "Kiruthika",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 270,
+      "history": [
+        {
+          "score": 190,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925942,
+            "_nanoseconds": 869336000
+          }
+        },
+        {
+          "score": 215,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748932044,
+            "_nanoseconds": 223687000
+          }
+        },
+        {
+          "score": 240,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014354,
+            "_nanoseconds": 133368000
+          }
+        },
+        {
+          "score": 270,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101251,
+            "_nanoseconds": 491582000
+          }
+        }
+      ]
+    },
+    {
+      "id": "h0QaAyCv2oAN2JCHzoM3",
+      "name": "Riyaz",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "hgWn1rUCxi6KhiT0mP4e",
+      "name": "Vishwa",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 125,
+      "history": [
+        {
+          "score": 110,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749012335,
+            "_nanoseconds": 532505000
+          }
+        },
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103656,
+            "_nanoseconds": 484785000
+          }
+        }
+      ]
+    },
+    {
+      "id": "hhTq2v4SFjh9xb9lJuiB",
+      "name": "Shana",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "jIhWHT0wmSpkNYvmqen4",
+      "name": "Thirukumaran",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 105,
+      "history": [
+        {
+          "score": 90,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748869449,
+            "_nanoseconds": 132077000
+          }
+        },
+        {
+          "score": 125,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926350,
+            "_nanoseconds": 231692000
+          }
+        },
+        {
+          "score": 105,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103873,
+            "_nanoseconds": 193705000
+          }
+        }
+      ]
+    },
+    {
+      "id": "jhSfxb0E9EkVxL9CGmhE",
+      "classId": "7A",
+      "name": "Victory girls",
+      "isGroup": true,
+      "memberIds": [
+        "FqsqrAnwevUf8inZlV0C",
+        "CyGip1dvNdTDBUKfFFn0",
+        "aXn5wMNzWfinuGVevN6m",
+        "CagmbsRXc020M5Gylny8",
+        "oySvVJsinMu6Ke10ePMZ",
+        "kY0UnYzuzqRMxQhb1plc",
+        "DRGaZXvXGdEewsvS8EaW"
+      ],
+      "score": 215,
+      "history": [
+        {
+          "score": 100,
+          "reason": null,
+          "customComment": null,
+          "timestamp": {
+            "_seconds": 1748857485,
+            "_nanoseconds": 917459000
+          }
+        },
+        {
+          "score": 225,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019336,
+            "_nanoseconds": 64261000
+          }
+        },
+        {
+          "score": 215,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019356,
+            "_nanoseconds": 201202000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "kY0UnYzuzqRMxQhb1plc",
+      "name": "Varshini Sasikumar",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "score": 235,
+      "history": [
+        {
+          "score": 180,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925220,
+            "_nanoseconds": 787220000
+          }
+        },
+        {
+          "score": 210,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930151,
+            "_nanoseconds": 4702000
+          }
+        },
+        {
+          "score": 235,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749012547,
+            "_nanoseconds": 836667000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "kiAm8XDkBngvNkahEBPt",
+      "name": "Chinna",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "ksi3ZVovOFfZctAcad17",
+      "name": "Sai Charan",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "lQWDgB8EMlKQaW3Zj8DH",
+      "name": "Yuvanesh",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 270,
+      "history": [
+        {
+          "score": 160,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923893,
+            "_nanoseconds": 199297000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924562,
+            "_nanoseconds": 308988000
+          }
+        },
+        {
+          "score": 215,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930749,
+            "_nanoseconds": 409307000
+          }
+        },
+        {
+          "score": 245,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749012637,
+            "_nanoseconds": 159777000
+          }
+        },
+        {
+          "score": 270,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103427,
+            "_nanoseconds": 133811000
+          }
+        }
+      ]
+    },
+    {
+      "id": "m2HL8G7W1uDuzwfOIzEy",
+      "name": "Swetha",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "n9m7UmSUwXD5KLtNcCUd",
+      "name": "Vaidee",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "nChanopW7EiCe9v4rya5",
+      "name": "Sudeep",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "nKolAqxar0bLK3xGvEjn",
+      "name": "Victor",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 175,
+      "history": [
+        {
+          "score": 110,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748923606,
+            "_nanoseconds": 258933000
+          }
+        },
+        {
+          "score": 120,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924540,
+            "_nanoseconds": 921484000
+          }
+        },
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930764,
+            "_nanoseconds": 375867000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013514,
+            "_nanoseconds": 178528000
+          }
+        },
+        {
+          "score": 195,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749101040,
+            "_nanoseconds": 673213000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103834,
+            "_nanoseconds": 596399000
+          }
+        }
+      ]
+    },
+    {
+      "id": "o7YIDm65kysQXXnY5iaP",
+      "classId": "7A",
+      "name": "Shanmugathan",
+      "isGroup": false,
+      "memberIds": null,
+      "isArchived": false,
+      "score": 310,
+      "history": [
+        {
+          "score": 100,
+          "reason": null,
+          "customComment": null,
+          "timestamp": {
+            "_seconds": 1748838302,
+            "_nanoseconds": 74100000
+          }
+        },
+        {
+          "score": 190,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748924264,
+            "_nanoseconds": 566061000
+          }
+        },
+        {
+          "score": 240,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748930736,
+            "_nanoseconds": 707464000
+          }
+        },
+        {
+          "score": 280,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011698,
+            "_nanoseconds": 205436000
+          }
+        },
+        {
+          "score": 310,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103522,
+            "_nanoseconds": 120594000
+          }
+        }
+      ]
+    },
+    {
+      "id": "oySvVJsinMu6Ke10ePMZ",
+      "name": "Sathiya",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 155,
+      "history": [
+        {
+          "score": 155,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748925623,
+            "_nanoseconds": 398412000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749013348,
+            "_nanoseconds": 675203000
+          }
+        },
+        {
+          "score": 155,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749014826,
+            "_nanoseconds": 284390000
+          }
+        },
+        {
+          "score": 175,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103059,
+            "_nanoseconds": 439134000
+          }
+        },
+        {
+          "score": 155,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103911,
+            "_nanoseconds": 790300000
+          }
+        }
+      ]
+    },
+    {
+      "id": "qRbHmDyLIhujkZp1aw8l",
+      "classId": "7A",
+      "name": "Mr.Beast",
+      "isGroup": true,
+      "memberIds": [
+        "J3nfgB2w7jkvG88H0mwn",
+        "PNqhAc25ziMgIuHXS125",
+        "RHHMRI8p6lfg9U1vFLP8",
+        "dCDlolsx1Lah8I65bkBh",
+        "lQWDgB8EMlKQaW3Zj8DH",
+        "o7YIDm65kysQXXnY5iaP",
+        "OxaTvkBG7uJFIOIqWX3u"
+      ],
+      "score": 170,
+      "history": [
+        {
+          "score": 100,
+          "reason": null,
+          "customComment": null,
+          "timestamp": {
+            "_seconds": 1748856789,
+            "_nanoseconds": 121169000
+          }
+        },
+        {
+          "score": 180,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019211,
+            "_nanoseconds": 111134000
+          }
+        },
+        {
+          "score": 170,
+          "reason": "Violating norms",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019218,
+            "_nanoseconds": 136321000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "qo76nLqPCGgHWbLVKEpF",
+      "name": "Hemanth",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "r4QARFeqnIG2I60ozkR6",
+      "name": "H Roshan",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "rzyXEm35gEvMws5btD5T",
+      "name": "Madhivadhini",
+      "isGroup": false,
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": false,
+      "score": 165,
+      "history": [
+        {
+          "score": 120,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1748926377,
+            "_nanoseconds": 688095000
+          }
+        },
+        {
+          "score": 145,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749011547,
+            "_nanoseconds": 234018000
+          }
+        },
+        {
+          "score": 165,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749103023,
+            "_nanoseconds": 902400000
+          }
+        }
+      ]
+    },
+    {
+      "id": "s8gYbl0Zl64PUFJ8lZ00",
+      "name": "Aravind",
+      "isGroup": false,
+      "classId": "8A",
+      "memberIds": null,
+      "score": 100,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "wTvPAS64OUL9spCSLS0y",
+      "name": "Thanishkaran",
+      "isGroup": false,
+      "score": 100,
+      "history": [],
+      "classId": "7A",
+      "memberIds": null,
+      "isArchived": true
+    },
+    {
+      "id": "x7XQmQV4ji1vr0FGiEwr",
+      "name": "Ramya",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "xPA72JT7kFbW1ICX7Ufg",
+      "name": "Srinee",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "xZT9tnjEeHLfWWLgeLxd",
+      "name": "Yazhini",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    },
+    {
+      "id": "zKjh3hWYPb7ACp0cJGtq",
+      "classId": "7A",
+      "isGroup": true,
+      "name": "Dragon",
+      "memberIds": [
+        "4XpYx6BBLPkivw1ELIpl",
+        "WMGrzzddmOvo32ZYzqZs",
+        "ZfuNN4afokwQ1RsqB1Fr",
+        "hgWn1rUCxi6KhiT0mP4e",
+        "jIhWHT0wmSpkNYvmqen4",
+        "wTvPAS64OUL9spCSLS0y"
+      ],
+      "score": 140,
+      "history": [
+        {
+          "score": 100,
+          "reason": null,
+          "customComment": null,
+          "timestamp": {
+            "_seconds": 1748857345,
+            "_nanoseconds": 371132000
+          }
+        },
+        {
+          "score": 160,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019147,
+            "_nanoseconds": 257563000
+          }
+        },
+        {
+          "score": 140,
+          "reason": "Activity Performance",
+          "customComment": "",
+          "timestamp": {
+            "_seconds": 1749019158,
+            "_nanoseconds": 727645000
+          }
+        }
+      ],
+      "isArchived": false
+    },
+    {
+      "id": "zW6bHFspxnEak2BUmwsj",
+      "name": "Preethi",
+      "isGroup": false,
+      "score": 100,
+      "classId": "8A",
+      "memberIds": null,
+      "history": [],
+      "isArchived": false
+    }
+  ],
+  "winners": [],
+  "activityLog": [
+    {
+      "id": "03IYjcSOuIJmNE6Ez6V4",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 115,
+        "change": -10,
+        "name": "Doshani",
+        "id": "CyGip1dvNdTDBUKfFFn0"
+      },
+      "timestamp": {
+        "_seconds": 1748926573,
+        "_nanoseconds": 175175000
+      }
+    },
+    {
+      "id": "0KkJRr3M6NUHAup2gFYE",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 145,
+        "customComment": "",
+        "newScore": 135,
+        "change": -10,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1748926561,
+        "_nanoseconds": 341698000
+      }
+    },
+    {
+      "id": "338a3654-5211-44d6-81fc-6f7455260968",
+      "action": "Generated Shareable Report Link",
+      "timestamp": {
+        "_seconds": 1749134821,
+        "_nanoseconds": 571000000
+      },
+      "details": {
+        "classId": "7A",
+        "reportId": "0cbc7af1-d311-4deb-a905-ef295550a10c"
+      }
+    },
+    {
+      "id": "0W1l43xIYihwUShfRJzN",
+      "action": "Added Entity",
+      "timestamp": {
+        "_seconds": 1748588463,
+        "_nanoseconds": 945000000
+      },
+      "details": {
+        "name": "Akash",
+        "isGroup": false,
+        "classId": "8A"
+      }
+    },
+    {
+      "id": "0fKwacWuHLHpjljZWBfW",
+      "action": "Multi-Edit Score Update",
+      "timestamp": {
+        "_seconds": 1748618296,
+        "_nanoseconds": 758000000
+      },
+      "details": {
+        "count": 37,
+        "failed": 0
+      }
+    },
+    {
+      "id": "0fPAFMPCUKLB8TRF1ZJW",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-29-22.494Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618962,
+        "_nanoseconds": 783000000
+      }
+    },
+    {
+      "id": "0lyWaPyUq4rcagOTdilf",
+      "action": "Deleted Student/Group",
+      "details": {
+        "name": "tt",
+        "id": "BYldHn6d9ReR0gGF796H"
+      },
+      "timestamp": {
+        "_seconds": 1748770343,
+        "_nanoseconds": 962769000
+      }
+    },
+    {
+      "id": "1DPfzXrxtYzfXUy0OCIf",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 105,
+        "change": -20,
+        "name": "Thirukumaran",
+        "id": "jIhWHT0wmSpkNYvmqen4"
+      },
+      "timestamp": {
+        "_seconds": 1749103873,
+        "_nanoseconds": 577702000
+      }
+    },
+    {
+      "id": "1Evq6A7IYLkaB3KP5HeO",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-58-17.300Z.json",
+        "count": 70
+      },
+      "timestamp": {
+        "_seconds": 1748588297,
+        "_nanoseconds": 522000000
+      }
+    },
+    {
+      "id": "1Y0W9vCHi4OXdNOMrHoB",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 135,
+        "customComment": "",
+        "newScore": 165,
+        "change": 30,
+        "name": "Ansar",
+        "id": "eKTskn5JsfdUYwt6PzqB"
+      },
+      "timestamp": {
+        "_seconds": 1748930652,
+        "_nanoseconds": 782675000
+      }
+    },
+    {
+      "id": "1fsQoTWNXLxwSIe7r7zX",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-58.555Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617618,
+        "_nanoseconds": 827000000
+      }
+    },
+    {
+      "id": "2IXPf6zFeuPDRLCPMY7i",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-02-03.915Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617324,
+        "_nanoseconds": 228000000
+      }
+    },
+    {
+      "id": "2YxlwmY7fESsG3LvnrxQ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T14-24-59.945Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748615100,
+        "_nanoseconds": 232000000
+      }
+    },
+    {
+      "id": "2eUsGSw5x4Sz4uV8vBFH",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 215,
+        "customComment": "",
+        "newScore": 240,
+        "change": 25,
+        "name": "Kiruthika",
+        "id": "glxVOiOtbLPS7UgcEIDt"
+      },
+      "timestamp": {
+        "_seconds": 1749014354,
+        "_nanoseconds": 453932000
+      }
+    },
+    {
+      "id": "2qP0X8kEeo20M3L6YEJG",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 175,
+        "customComment": "",
+        "newScore": 200,
+        "change": 25,
+        "name": "Surya",
+        "id": "WMGrzzddmOvo32ZYzqZs"
+      },
+      "timestamp": {
+        "_seconds": 1749011133,
+        "_nanoseconds": 327790000
+      }
+    },
+    {
+      "id": "35PSI5Y9WozQlCvHaPqd",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-45.481Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617545,
+        "_nanoseconds": 734000000
+      }
+    },
+    {
+      "id": "3Cs7GdAjld5jdZkP2tPb",
+      "action": "Added Group",
+      "details": {
+        "classId": "8A",
+        "name": "new"
+      },
+      "timestamp": {
+        "_seconds": 1748712216,
+        "_nanoseconds": 245225000
+      }
+    },
+    {
+      "id": "3EfhPTFiBCLyCFfpiWB7",
+      "action": "Updated Group",
+      "details": {
+        "name": "Gang queens",
+        "id": "FANQKZQxGy08lqNIuvZ1"
+      },
+      "timestamp": {
+        "_seconds": 1748856912,
+        "_nanoseconds": 401675000
+      }
+    },
+    {
+      "id": "3KiECUDmuvuv0LTIGEs4",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 195,
+        "customComment": "",
+        "newScore": 175,
+        "change": -20,
+        "name": "Victor",
+        "id": "nKolAqxar0bLK3xGvEjn"
+      },
+      "timestamp": {
+        "_seconds": 1749103834,
+        "_nanoseconds": 851675000
+      }
+    },
+    {
+      "id": "3oiq26RNtIrYROpdGG62",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 115,
+        "customComment": "",
+        "newScore": 135,
+        "change": 20,
+        "name": "Inbaraj",
+        "id": "OODyE1itBb4ru8Xle6XV"
+      },
+      "timestamp": {
+        "_seconds": 1749023398,
+        "_nanoseconds": 843456000
+      }
+    },
+    {
+      "id": "3v7PvFrJERVXJ3BnXEwu",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 175,
+        "customComment": "",
+        "newScore": 255,
+        "change": 80,
+        "name": "Madhumitha",
+        "id": "WOooAeiJHIpiwd9fNsSf"
+      },
+      "timestamp": {
+        "_seconds": 1748931755,
+        "_nanoseconds": 233458000
+      }
+    },
+    {
+      "id": "3zPd4Pd7AqE1AxvttFhV",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-55-31.337Z.json",
+        "count": 73
+      },
+      "timestamp": {
+        "_seconds": 1748620531,
+        "_nanoseconds": 623000000
+      }
+    },
+    {
+      "id": "422lPuVsI2mrHncJ1TIk",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 155,
+        "customComment": "",
+        "newScore": 175,
+        "change": 20,
+        "name": "Sathiya",
+        "id": "oySvVJsinMu6Ke10ePMZ"
+      },
+      "timestamp": {
+        "_seconds": 1749103059,
+        "_nanoseconds": 764435000
+      }
+    },
+    {
+      "id": "432uH65BYsaz9635R8a2",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-13-17.685Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617997,
+        "_nanoseconds": 947000000
+      }
+    },
+    {
+      "id": "44TJNHYw3hWJzAddSik1",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 125,
+        "change": 25,
+        "name": "Ariya",
+        "id": "dCDlolsx1Lah8I65bkBh"
+      },
+      "timestamp": {
+        "_seconds": 1749011646,
+        "_nanoseconds": 101778000
+      }
+    },
+    {
+      "id": "48aiphQKWYzhvqmVhcFI",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-37.680Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618197,
+        "_nanoseconds": 939000000
+      }
+    },
+    {
+      "id": "4HAvVMtpxOkyJMqv0gzv",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 175,
+        "customComment": "",
+        "newScore": 155,
+        "change": -20,
+        "name": "Sathiya",
+        "id": "oySvVJsinMu6Ke10ePMZ"
+      },
+      "timestamp": {
+        "_seconds": 1749014826,
+        "_nanoseconds": 599331000
+      }
+    },
+    {
+      "id": "4Ryzf8XHwXGeAiBvhJ0K",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-54.209Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619234,
+        "_nanoseconds": 502000000
+      }
+    },
+    {
+      "id": "4c3LXzvGzZmdDHoxLWuk",
+      "action": "Undo Score Update",
+      "details": {
+        "id": "qRbHmDyLIhujkZp1aw8l",
+        "revertedToScore": 290
+      },
+      "timestamp": {
+        "_seconds": 1749019276,
+        "_nanoseconds": 916282000
+      }
+    },
+    {
+      "id": "4urfUgjQFIHzL77O1ZKQ",
+      "action": "Archived Student/Group",
+      "timestamp": {
+        "_seconds": 1749049123,
+        "_nanoseconds": 604000000
+      },
+      "details": {
+        "id": "cvNW1JIseZOVecYyReL2",
+        "name": "Akash",
+        "isArchived": true
+      }
+    },
+    {
+      "id": "4weKxtcZNHSxZgETcSJ4",
+      "action": "Generated/Shared Report",
+      "timestamp": {
+        "_seconds": 1749052176,
+        "_nanoseconds": 565000000
+      },
+      "details": {
+        "classId": "",
+        "fileName": "score_tracker_report_AllClasses_20250604_211936.csv"
+      }
+    },
+    {
+      "id": "5AKVI6CrArrP4U9jAb8s",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-41.039Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619161,
+        "_nanoseconds": 323000000
+      }
+    },
+    {
+      "id": "5UtNqWi0tWHcaVxKJDhw",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-07-07.643Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617627,
+        "_nanoseconds": 898000000
+      }
+    },
+    {
+      "id": "5iNivrACwNO5arPxqjmg",
+      "action": "Updated Score",
+      "details": {
+        "oldScore": 110,
+        "newScore": 115,
+        "name": "Kanishkar",
+        "id": "Py3z8gFnyk6wTD7QIzoq"
+      },
+      "timestamp": {
+        "_seconds": 1748708823,
+        "_nanoseconds": 611876000
+      }
+    },
+    {
+      "id": "5x6YP3uiCn5QkUZscIuD",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-36-49.514Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619409,
+        "_nanoseconds": 799000000
+      }
+    },
+    {
+      "id": "5yc5MaVNdguQzKMiZiSv",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-55-08.791Z.json",
+        "count": 73
+      },
+      "timestamp": {
+        "_seconds": 1748620509,
+        "_nanoseconds": 91000000
+      }
+    },
+    {
+      "id": "66GjkmKTkGAJombdpLGg",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-55.519Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619235,
+        "_nanoseconds": 847000000
+      }
+    },
+    {
+      "id": "6LbgxSWKLCHMgBr75cbx",
+      "action": "Updated Score",
+      "details": {
+        "oldScore": 100,
+        "newScore": 105,
+        "name": "Kanishkar",
+        "id": "Py3z8gFnyk6wTD7QIzoq"
+      },
+      "timestamp": {
+        "_seconds": 1748708819,
+        "_nanoseconds": 894940000
+      }
+    },
+    {
+      "id": "6VroZki89vGyDCpbbE0u",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 145,
+        "change": 45,
+        "name": "Inbaraj",
+        "id": "OODyE1itBb4ru8Xle6XV"
+      },
+      "timestamp": {
+        "_seconds": 1748924054,
+        "_nanoseconds": 727263000
+      }
+    },
+    {
+      "id": "6fFbl1z7XljmrhBJMBf3",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 155,
+        "customComment": "",
+        "newScore": 135,
+        "change": -20,
+        "name": "Ansar",
+        "id": "eKTskn5JsfdUYwt6PzqB"
+      },
+      "timestamp": {
+        "_seconds": 1748926586,
+        "_nanoseconds": 841967000
+      }
+    },
+    {
+      "id": "6imL6i4tegybCYYJrT3v",
+      "action": "Added Group",
+      "details": {
+        "classId": "8A",
+        "name": "aaa"
+      },
+      "timestamp": {
+        "_seconds": 1748720930,
+        "_nanoseconds": 449437000
+      }
+    },
+    {
+      "id": "6rIjas0OfFIyIAiXucUb",
+      "action": "Added Entity",
+      "timestamp": {
+        "_seconds": 1748620318,
+        "_nanoseconds": 249000000
+      },
+      "details": {
+        "name": "aaa",
+        "isGroup": true,
+        "classId": "8A"
+      }
+    },
+    {
+      "id": "740EyGxUnKt9NzJKVFgu",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 110,
+        "customComment": "",
+        "newScore": 125,
+        "change": 15,
+        "name": "Vishwa",
+        "id": "hgWn1rUCxi6KhiT0mP4e"
+      },
+      "timestamp": {
+        "_seconds": 1749103657,
+        "_nanoseconds": 138145000
+      }
+    },
+    {
+      "id": "7PTT8IkQyGfogTqiBlk1",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Class participation",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 120,
+        "change": 20,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1748710667,
+        "_nanoseconds": 429537000
+      }
+    },
+    {
+      "id": "7SCuXFN8D9RZFZKFbyMD",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 90,
+        "customComment": "",
+        "newScore": 125,
+        "change": 35,
+        "name": "Thirukumaran",
+        "id": "jIhWHT0wmSpkNYvmqen4"
+      },
+      "timestamp": {
+        "_seconds": 1748926350,
+        "_nanoseconds": 624784000
+      }
+    },
+    {
+      "id": "7VE3xrQdxcYrIkDlZhXA",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T07-01-14.638Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748588474,
+        "_nanoseconds": 840000000
+      }
+    },
+    {
+      "id": "7cLdSw2ahLEZ7UG5CJHH",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 175,
+        "customComment": "",
+        "newScore": 165,
+        "change": -10,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1748930622,
+        "_nanoseconds": 311769000
+      }
+    },
+    {
+      "id": "7fPbGVkDw6mwEijNFk3q",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 160,
+        "customComment": "",
+        "newScore": 182,
+        "change": 22,
+        "name": "Akash",
+        "id": "cvNW1JIseZOVecYyReL2"
+      },
+      "timestamp": {
+        "_seconds": 1748711549,
+        "_nanoseconds": 854102000
+      }
+    },
+    {
+      "id": "7kKKxDqMlFTuc7kg1v5y",
+      "action": "Multi-Edit Score Update",
+      "timestamp": {
+        "_seconds": 1748620433,
+        "_nanoseconds": 831000000
+      },
+      "details": {
+        "count": 37,
+        "failed": 0
+      }
+    },
+    {
+      "id": "7kSyuuZGVPsASULg91Vh",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-28.730Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617588,
+        "_nanoseconds": 998000000
+      }
+    },
+    {
+      "id": "7wB8FyOKycMwCDGu6bhZ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 120,
+        "customComment": "",
+        "newScore": 130,
+        "change": 10,
+        "name": "Yogitha ",
+        "id": "9nKZMmFtLzAASsSrC8sg"
+      },
+      "timestamp": {
+        "_seconds": 1749102870,
+        "_nanoseconds": 349524000
+      }
+    },
+    {
+      "id": "80UrpyPnPv67Ijgl6UZw",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 145,
+        "customComment": "",
+        "newScore": 165,
+        "change": 20,
+        "name": "Sanjana",
+        "id": "CagmbsRXc020M5Gylny8"
+      },
+      "timestamp": {
+        "_seconds": 1749013587,
+        "_nanoseconds": 239778000
+      }
+    },
+    {
+      "id": "85rcimeLZ72mkxg5jU6V",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 180,
+        "change": 30,
+        "name": "Mugunthan",
+        "id": "PYsMbcToMkiHa51G43ql"
+      },
+      "timestamp": {
+        "_seconds": 1748930202,
+        "_nanoseconds": 771967000
+      }
+    },
+    {
+      "id": "88krOOFj5q2F5ftASOrG",
+      "action": "Reset Scores for Class",
+      "details": {
+        "classId": "7A"
+      },
+      "timestamp": {
+        "_seconds": 1748770355,
+        "_nanoseconds": 655222000
+      }
+    },
+    {
+      "id": "8ObMYpUgz22NgLcwaN3U",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-58.815Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617619,
+        "_nanoseconds": 70000000
+      }
+    },
+    {
+      "id": "8hj6w9lS9q9G7nuodbCj",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-56-10.824Z.json",
+        "count": 70
+      },
+      "timestamp": {
+        "_seconds": 1748588171,
+        "_nanoseconds": 42000000
+      }
+    },
+    {
+      "id": "8nku4rxa39SOJUAlJoR1",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 145,
+        "customComment": "",
+        "newScore": 125,
+        "change": -20,
+        "name": "Gugan",
+        "id": "4XpYx6BBLPkivw1ELIpl"
+      },
+      "timestamp": {
+        "_seconds": 1749014778,
+        "_nanoseconds": 617551000
+      }
+    },
+    {
+      "id": "90700qpwihks9WXfqZ5h",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 130,
+        "customComment": "",
+        "newScore": 145,
+        "change": 15,
+        "name": "Gugan",
+        "id": "4XpYx6BBLPkivw1ELIpl"
+      },
+      "timestamp": {
+        "_seconds": 1749014405,
+        "_nanoseconds": 504054000
+      }
+    },
+    {
+      "id": "9E0BZ42BIGlFGbysIpsE",
+      "action": "Updated Group",
+      "details": {
+        "name": "aaa",
+        "id": "gtfjllQuKw3kBoPz0zyT"
+      },
+      "timestamp": {
+        "_seconds": 1748768735,
+        "_nanoseconds": 130800000
+      }
+    },
+    {
+      "id": "9TLGqVzh7ZyEfxza7o3Z",
+      "action": "Undo Score Update",
+      "details": {
+        "id": "qRbHmDyLIhujkZp1aw8l",
+        "revertedToScore": 170
+      },
+      "timestamp": {
+        "_seconds": 1749019281,
+        "_nanoseconds": 303783000
+      }
+    },
+    {
+      "id": "9fglO4ow3TsCPeMifoPI",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-29.107Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618189,
+        "_nanoseconds": 370000000
+      }
+    },
+    {
+      "id": "9qqLhwLybrSy0iTx7FnJ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 120,
+        "customComment": "",
+        "newScore": 140,
+        "change": 20,
+        "name": "Sridivya",
+        "id": "7S4w5becWcSnCdAQHeh7"
+      },
+      "timestamp": {
+        "_seconds": 1748931958,
+        "_nanoseconds": 562115000
+      }
+    },
+    {
+      "id": "9rToVUf6ztl5lkpYfPeK",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 190,
+        "customComment": "",
+        "newScore": 240,
+        "change": 50,
+        "name": "Shanmugathan",
+        "id": "o7YIDm65kysQXXnY5iaP"
+      },
+      "timestamp": {
+        "_seconds": 1748930736,
+        "_nanoseconds": 987707000
+      }
+    },
+    {
+      "id": "9ug2tDGpBaMmgcTahxYU",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 150,
+        "change": 50,
+        "name": "Baseera",
+        "id": "FqsqrAnwevUf8inZlV0C"
+      },
+      "timestamp": {
+        "_seconds": 1748926250,
+        "_nanoseconds": 754356000
+      }
+    },
+    {
+      "id": "A8h25DY2MVzOJI60D7u8",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 110,
+        "change": 10,
+        "name": "Victor",
+        "id": "nKolAqxar0bLK3xGvEjn"
+      },
+      "timestamp": {
+        "_seconds": 1748923606,
+        "_nanoseconds": 673408000
+      }
+    },
+    {
+      "id": "ATPDCYqj1B0ihewZN99h",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-29.571Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619089,
+        "_nanoseconds": 896000000
+      }
+    },
+    {
+      "id": "AfxspAaFXl9sWXKYH9QL",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 165,
+        "customComment": "",
+        "newScore": 190,
+        "change": 25,
+        "name": "Varshini Srinivasan",
+        "id": "DRGaZXvXGdEewsvS8EaW"
+      },
+      "timestamp": {
+        "_seconds": 1749014660,
+        "_nanoseconds": 290438000
+      }
+    },
+    {
+      "id": "AhNmjv7I4QD0RJpROXX8",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-31.091Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619151,
+        "_nanoseconds": 413000000
+      }
+    },
+    {
+      "id": "AhgLrbVl6ecA2mp4Awz4",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-30-52.201Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619052,
+        "_nanoseconds": 507000000
+      }
+    },
+    {
+      "id": "AlFeim5w4OjzpAeIo21W",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 180,
+        "customComment": "",
+        "newScore": 210,
+        "change": 30,
+        "name": "Varshini Sasikumar",
+        "id": "kY0UnYzuzqRMxQhb1plc"
+      },
+      "timestamp": {
+        "_seconds": 1748930151,
+        "_nanoseconds": 380282000
+      }
+    },
+    {
+      "id": "Aut8ObNkbMihXWQXRdJO",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-46-04.945Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619965,
+        "_nanoseconds": 250000000
+      }
+    },
+    {
+      "id": "AwoC77tXgXFlhoRrAqth",
+      "action": "Bulk Archive Status Update",
+      "timestamp": {
+        "_seconds": 1749052705,
+        "_nanoseconds": 754000000
+      },
+      "details": {
+        "classId": "7A",
+        "updatedCount": 2
+      }
+    },
+    {
+      "id": "B47snarqzkUhEukZDod3",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 140,
+        "customComment": "",
+        "newScore": 170,
+        "change": 30,
+        "name": "Sridivya",
+        "id": "7S4w5becWcSnCdAQHeh7"
+      },
+      "timestamp": {
+        "_seconds": 1749013255,
+        "_nanoseconds": 872283000
+      }
+    },
+    {
+      "id": "BHNAJkb7JB3dRHLMgjHn",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 170,
+        "change": 20,
+        "name": "Baseera",
+        "id": "FqsqrAnwevUf8inZlV0C"
+      },
+      "timestamp": {
+        "_seconds": 1749014155,
+        "_nanoseconds": 538371000
+      }
+    },
+    {
+      "id": "BJp1tm95VOB2S12qpkIB",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 150,
+        "change": 25,
+        "name": "Saravana",
+        "id": "Edra4p7BHvu3MdK68KPj"
+      },
+      "timestamp": {
+        "_seconds": 1748925001,
+        "_nanoseconds": 782253000
+      }
+    },
+    {
+      "id": "BqpDsGtL54TqCHC2Rt7f",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 170,
+        "customComment": "",
+        "newScore": 195,
+        "change": 25,
+        "name": "Baseera",
+        "id": "FqsqrAnwevUf8inZlV0C"
+      },
+      "timestamp": {
+        "_seconds": 1749103805,
+        "_nanoseconds": 831547000
+      }
+    },
+    {
+      "id": "C1myGD0zgVjIoRhS4y39",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-13.549Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619193,
+        "_nanoseconds": 840000000
+      }
+    },
+    {
+      "id": "CKFtM8gG5lANUBXrm8Xu",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-29-36.999Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618977,
+        "_nanoseconds": 299000000
+      }
+    },
+    {
+      "id": "CggzQeErOaaQuF3GMMjQ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 170,
+        "change": 70,
+        "name": "Mathesh",
+        "id": "ZfuNN4afokwQ1RsqB1Fr"
+      },
+      "timestamp": {
+        "_seconds": 1748925703,
+        "_nanoseconds": 275911000
+      }
+    },
+    {
+      "id": "CypcZSWpCOB38sJH8Q0h",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 200,
+        "customComment": "",
+        "newScore": 230,
+        "change": 30,
+        "name": "Krishna",
+        "id": "PNqhAc25ziMgIuHXS125"
+      },
+      "timestamp": {
+        "_seconds": 1749102618,
+        "_nanoseconds": 875616000
+      }
+    },
+    {
+      "id": "D7n9SqnGd5ulSRQDIJJx",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-01.381Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617561,
+        "_nanoseconds": 650000000
+      }
+    },
+    {
+      "id": "DI5VFeMtih2PA9IcQFZN",
+      "action": "Updated Group",
+      "details": {
+        "name": "Doegun",
+        "id": "zKjh3hWYPb7ACp0cJGtq"
+      },
+      "timestamp": {
+        "_seconds": 1748857376,
+        "_nanoseconds": 661091000
+      }
+    },
+    {
+      "id": "DKvwxGIDMchWJujnhJhK",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-19.551Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619199,
+        "_nanoseconds": 841000000
+      }
+    },
+    {
+      "id": "DpzItzYcxqdArJkG3tiH",
+      "action": "Added Group",
+      "details": {
+        "classId": "7A",
+        "name": "Doegun"
+      },
+      "timestamp": {
+        "_seconds": 1748857345,
+        "_nanoseconds": 745125000
+      }
+    },
+    {
+      "id": "E2C9Vg5Nf46POgeU1t5U",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 220,
+        "customComment": "",
+        "newScore": 250,
+        "change": 30,
+        "name": "Mugunthan",
+        "id": "PYsMbcToMkiHa51G43ql"
+      },
+      "timestamp": {
+        "_seconds": 1749014303,
+        "_nanoseconds": 466525000
+      }
+    },
+    {
+      "id": "E3p5rTNizSNq10YJPz52",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Following norms",
+        "oldScore": 130,
+        "customComment": "",
+        "newScore": 160,
+        "change": 30,
+        "name": "Akash",
+        "id": "cvNW1JIseZOVecYyReL2"
+      },
+      "timestamp": {
+        "_seconds": 1748709681,
+        "_nanoseconds": 527057000
+      }
+    },
+    {
+      "id": "E55cEMGfMw391FODCbEP",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-47.298Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617547,
+        "_nanoseconds": 553000000
+      }
+    },
+    {
+      "id": "E5ItJBcgHxSGtNmHUzh7",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 90,
+        "change": -10,
+        "name": "Thirukumaran",
+        "id": "jIhWHT0wmSpkNYvmqen4"
+      },
+      "timestamp": {
+        "_seconds": 1748869449,
+        "_nanoseconds": 530173000
+      }
+    },
+    {
+      "id": "ENo7l922jBjo1ThUlBPd",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-48-14.029Z.json",
+        "count": 0
+      },
+      "timestamp": {
+        "_seconds": 1748587694,
+        "_nanoseconds": 280000000
+      }
+    },
+    {
+      "id": "ERaaIt7DV2oIKlUPWxwp",
+      "action": "Generated Guest Link",
+      "details": {
+        "classId": "8A",
+        "token": "1def6a0fd1d5c001f8ee82e83a1ac160"
+      },
+      "timestamp": {
+        "_seconds": 1748621191,
+        "_nanoseconds": 983000000
+      }
+    },
+    {
+      "id": "EbYcEWEulGnN05G8JERF",
+      "action": "Added Group",
+      "details": {
+        "classId": "7A",
+        "name": "Mr.Beast"
+      },
+      "timestamp": {
+        "_seconds": 1748856789,
+        "_nanoseconds": 403945000
+      }
+    },
+    {
+      "id": "Ebl3m4NI3in6PU915s1U",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 175,
+        "change": 25,
+        "name": "Mathesh",
+        "id": "ZfuNN4afokwQ1RsqB1Fr"
+      },
+      "timestamp": {
+        "_seconds": 1749011262,
+        "_nanoseconds": 575770000
+      }
+    },
+    {
+      "id": "EisrCG8rYSt3qWGljn3N",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 145,
+        "change": 45,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1748925089,
+        "_nanoseconds": 375196000
+      }
+    },
+    {
+      "id": "F91ScvFcG8VJKmHEMPwI",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 255,
+        "customComment": "",
+        "newScore": 285,
+        "change": 30,
+        "name": "Madhumitha",
+        "id": "WOooAeiJHIpiwd9fNsSf"
+      },
+      "timestamp": {
+        "_seconds": 1749013834,
+        "_nanoseconds": 748941000
+      }
+    },
+    {
+      "id": "FXOscZChCsFJtqoOnzCJ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-48.292Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619108,
+        "_nanoseconds": 589000000
+      }
+    },
+    {
+      "id": "G2kyhNMWn05wpdPNt2nA",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 120,
+        "change": 20,
+        "name": "Yogitha ",
+        "id": "9nKZMmFtLzAASsSrC8sg"
+      },
+      "timestamp": {
+        "_seconds": 1748927589,
+        "_nanoseconds": 526031000
+      }
+    },
+    {
+      "id": "G2l2csqcQkvj2JYrccS2",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 150,
+        "change": 25,
+        "name": "Gugan",
+        "id": "4XpYx6BBLPkivw1ELIpl"
+      },
+      "timestamp": {
+        "_seconds": 1749103386,
+        "_nanoseconds": 893586000
+      }
+    },
+    {
+      "id": "GF578OQYEDYMSyjn5wDR",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-10-08.275Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617808,
+        "_nanoseconds": 547000000
+      }
+    },
+    {
+      "id": "Gks7EkEpNupkZq5JFNNN",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-44.451Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617604,
+        "_nanoseconds": 747000000
+      }
+    },
+    {
+      "id": "H8PlG9xIEwY0vTk00tyf",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-27.227Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618187,
+        "_nanoseconds": 497000000
+      }
+    },
+    {
+      "id": "H8kwFU4zmezBmGSQ0iyK",
+      "action": "Reset Scores for Class",
+      "details": {
+        "classId": "8A"
+      },
+      "timestamp": {
+        "_seconds": 1748770326,
+        "_nanoseconds": 358439000
+      }
+    },
+    {
+      "id": "HDKTPfmUIwpotsczXyzN",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 110,
+        "customComment": "",
+        "newScore": 130,
+        "change": 20,
+        "name": "Gugan",
+        "id": "4XpYx6BBLPkivw1ELIpl"
+      },
+      "timestamp": {
+        "_seconds": 1748930677,
+        "_nanoseconds": 847155000
+      }
+    },
+    {
+      "id": "HOAPdpX7Gc7SNjuocb3a",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-07-08.768Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617629,
+        "_nanoseconds": 70000000
+      }
+    },
+    {
+      "id": "HlMhnG3hlMIq6hCJfsYE",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Class participation",
+        "oldScore": 285,
+        "customComment": "",
+        "newScore": 315,
+        "change": 30,
+        "name": "Madhumitha",
+        "id": "WOooAeiJHIpiwd9fNsSf"
+      },
+      "timestamp": {
+        "_seconds": 1749101149,
+        "_nanoseconds": 990726000
+      }
+    },
+    {
+      "id": "HnD1JjQr8QACD5g2LwhB",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 225,
+        "customComment": "",
+        "newScore": 250,
+        "change": 25,
+        "name": "Surya",
+        "id": "WMGrzzddmOvo32ZYzqZs"
+      },
+      "timestamp": {
+        "_seconds": 1749102528,
+        "_nanoseconds": 616545000
+      }
+    },
+    {
+      "id": "I2waJNq3JbuaiCPlk885",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-47-40.755Z.json",
+        "count": 0
+      },
+      "timestamp": {
+        "_seconds": 1748587661,
+        "_nanoseconds": 12000000
+      }
+    },
+    {
+      "id": "IHYKNnMZP9PkKnwdAmBP",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 150,
+        "change": 50,
+        "name": "Krishna",
+        "id": "PNqhAc25ziMgIuHXS125"
+      },
+      "timestamp": {
+        "_seconds": 1748923730,
+        "_nanoseconds": 363307000
+      }
+    },
+    {
+      "id": "IMkHrNJeBrJuINNRVfvr",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-49.856Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618210,
+        "_nanoseconds": 114000000
+      }
+    },
+    {
+      "id": "IOR0SaaaqTp0rTMNzw9O",
+      "action": "Added Group",
+      "details": {
+        "classId": "8A",
+        "name": "tt"
+      },
+      "timestamp": {
+        "_seconds": 1748711604,
+        "_nanoseconds": 498045000
+      }
+    },
+    {
+      "id": "IUFyj8qNPd0Dn0WtDrXt",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 130,
+        "customComment": "",
+        "newScore": 110,
+        "change": -20,
+        "name": "Lithish",
+        "id": "RHHMRI8p6lfg9U1vFLP8"
+      },
+      "timestamp": {
+        "_seconds": 1748926611,
+        "_nanoseconds": 905484000
+      }
+    },
+    {
+      "id": "IwIYNneIFANLub4OV0Ax",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-02-00.371Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617320,
+        "_nanoseconds": 761000000
+      }
+    },
+    {
+      "id": "IzMfaGyZGJTauHs7WLuW",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 180,
+        "customComment": "",
+        "newScore": 170,
+        "change": -10,
+        "name": "Mr.Beast",
+        "id": "qRbHmDyLIhujkZp1aw8l"
+      },
+      "timestamp": {
+        "_seconds": 1749019218,
+        "_nanoseconds": 385295000
+      }
+    },
+    {
+      "id": "JCXcNkFrmacHMevpWU9u",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 155,
+        "customComment": "",
+        "newScore": 175,
+        "change": 20,
+        "name": "Sathiya",
+        "id": "oySvVJsinMu6Ke10ePMZ"
+      },
+      "timestamp": {
+        "_seconds": 1749013349,
+        "_nanoseconds": 326740000
+      }
+    },
+    {
+      "id": "JyVfomxccOCPfZw4wCia",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 215,
+        "customComment": "",
+        "newScore": 245,
+        "change": 30,
+        "name": "Yuvanesh",
+        "id": "lQWDgB8EMlKQaW3Zj8DH"
+      },
+      "timestamp": {
+        "_seconds": 1749012637,
+        "_nanoseconds": 665912000
+      }
+    },
+    {
+      "id": "K59P3CUSO7Yc6bEMqwBY",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-31.023Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619091,
+        "_nanoseconds": 308000000
+      }
+    },
+    {
+      "id": "KXjiIUZ8DxEj6WuxL7kE",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-19-36.880Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618377,
+        "_nanoseconds": 151000000
+      }
+    },
+    {
+      "id": "KvJB6Mm4IwP8QiLnYVxn",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 150,
+        "change": 25,
+        "name": "Kaviya",
+        "id": "SeKbGSBTNAuxfwJa4Wsd"
+      },
+      "timestamp": {
+        "_seconds": 1749013169,
+        "_nanoseconds": 477452000
+      }
+    },
+    {
+      "id": "KwXrEZKxduPBKHyAGINR",
+      "action": "Added Entity",
+      "timestamp": {
+        "_seconds": 1748588471,
+        "_nanoseconds": 626000000
+      },
+      "details": {
+        "name": "Aravind",
+        "isGroup": false,
+        "classId": "8A"
+      }
+    },
+    {
+      "id": "L43rkFDNFnjHYCZ5lscP",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-50.203Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617550,
+        "_nanoseconds": 460000000
+      }
+    },
+    {
+      "id": "L63qsiWoTiyUsSh96pcK",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 145,
+        "customComment": "",
+        "newScore": 135,
+        "change": -10,
+        "name": "Varshini Srinivasan",
+        "id": "DRGaZXvXGdEewsvS8EaW"
+      },
+      "timestamp": {
+        "_seconds": 1748926545,
+        "_nanoseconds": 547996000
+      }
+    },
+    {
+      "id": "LA8vVBnmk16Qnf563cZw",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 105,
+        "customComment": "",
+        "newScore": 135,
+        "change": 30,
+        "name": "Doshani",
+        "id": "CyGip1dvNdTDBUKfFFn0"
+      },
+      "timestamp": {
+        "_seconds": 1749011447,
+        "_nanoseconds": 479726000
+      }
+    },
+    {
+      "id": "LHQv5KCja9Xbw1WmcVnU",
+      "action": "Updated Group",
+      "details": {
+        "name": "Mr.Beast",
+        "id": "qRbHmDyLIhujkZp1aw8l"
+      },
+      "timestamp": {
+        "_seconds": 1748856811,
+        "_nanoseconds": 311200000
+      }
+    },
+    {
+      "id": "LnGzjGfA9VDCI3hHF1rr",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-27.050Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617587,
+        "_nanoseconds": 317000000
+      }
+    },
+    {
+      "id": "MJ3KmbApJZjU3FCadcUS",
+      "action": "Added Group",
+      "details": {
+        "classId": "7A",
+        "name": "Gang queens"
+      },
+      "timestamp": {
+        "_seconds": 1748856878,
+        "_nanoseconds": 903672000
+      }
+    },
+    {
+      "id": "MP0J9DdSWYnmDJMzZnlT",
+      "action": "Undo Delete Entity",
+      "details": {
+        "id": "gtfjllQuKw3kBoPz0zyT"
+      },
+      "timestamp": {
+        "_seconds": 1748768762,
+        "_nanoseconds": 456304000
+      }
+    },
+    {
+      "id": "MQIQn3gAIHNEneJECre4",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-46-08.163Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619968,
+        "_nanoseconds": 463000000
+      }
+    },
+    {
+      "id": "MRngMmzDxGSWoNBknyFs",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-01.669Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617561,
+        "_nanoseconds": 924000000
+      }
+    },
+    {
+      "id": "MT4HElwqsriYdknQsrYS",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 240,
+        "customComment": "",
+        "newScore": 280,
+        "change": 40,
+        "name": "Shanmugathan",
+        "id": "o7YIDm65kysQXXnY5iaP"
+      },
+      "timestamp": {
+        "_seconds": 1749011698,
+        "_nanoseconds": 535122000
+      }
+    },
+    {
+      "id": "MZMcq4BPvyhmmCWKPa4u",
+      "action": "Added Student",
+      "details": {
+        "classId": "7A",
+        "name": "Yogitha "
+      },
+      "timestamp": {
+        "_seconds": 1748852022,
+        "_nanoseconds": 398209000
+      }
+    },
+    {
+      "id": "MZw2uYwoOSCIZzce8c2n",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-53.793Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619174,
+        "_nanoseconds": 78000000
+      }
+    },
+    {
+      "id": "N0inb3dndMuCGzXVvgp5",
+      "action": "Bulk Archive Status Update",
+      "timestamp": {
+        "_seconds": 1749052645,
+        "_nanoseconds": 241000000
+      },
+      "details": {
+        "classId": "7A",
+        "updatedCount": 3
+      }
+    },
+    {
+      "id": "NClucqxJlEkTX95yQIUJ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 220,
+        "customComment": "",
+        "newScore": 200,
+        "change": -20,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1749014753,
+        "_nanoseconds": 638948000
+      }
+    },
+    {
+      "id": "950fab4a-1e98-427d-99c1-0ddb4dc236dc",
+      "action": "Generated Shareable Report Link",
+      "timestamp": {
+        "_seconds": 1749142320,
+        "_nanoseconds": 685000000
+      },
+      "details": {
+        "classId": "7A",
+        "reportId": "3353040f-abfc-4c9f-87c7-990eb6e3b434"
+      }
+    },
+    {
+      "id": "NuKtUIpAUriRkZUxH9du",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-02-00.359Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617320,
+        "_nanoseconds": 661000000
+      }
+    },
+    {
+      "id": "O19LS6bzFs5J0zsXzl82",
+      "action": "Updated Group",
+      "details": {
+        "name": "Doegun",
+        "id": "zKjh3hWYPb7ACp0cJGtq"
+      },
+      "timestamp": {
+        "_seconds": 1748857427,
+        "_nanoseconds": 997584000
+      }
+    },
+    {
+      "id": "O3Oqy8IBqqG1YIUUX9J0",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-39.001Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617539,
+        "_nanoseconds": 275000000
+      }
+    },
+    {
+      "id": "O5rPetEUWKAbiOok3U0T",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 120,
+        "customComment": "",
+        "newScore": 145,
+        "change": 25,
+        "name": "Madhivadhini",
+        "id": "rzyXEm35gEvMws5btD5T"
+      },
+      "timestamp": {
+        "_seconds": 1749011547,
+        "_nanoseconds": 727731000
+      }
+    },
+    {
+      "id": "OE5KOmGeabF1gfUWYUmR",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 145,
+        "customComment": "",
+        "newScore": 170,
+        "change": 25,
+        "name": "Victor",
+        "id": "nKolAqxar0bLK3xGvEjn"
+      },
+      "timestamp": {
+        "_seconds": 1749013514,
+        "_nanoseconds": 822157000
+      }
+    },
+    {
+      "id": "OF1BUT3ssTklvedpxcrx",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-23.916Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617584,
+        "_nanoseconds": 178000000
+      }
+    },
+    {
+      "id": "OZNSEGq1CfyObZVmKQzQ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 125,
+        "change": 25,
+        "name": "Doshani",
+        "id": "CyGip1dvNdTDBUKfFFn0"
+      },
+      "timestamp": {
+        "_seconds": 1748925799,
+        "_nanoseconds": 988745000
+      }
+    },
+    {
+      "id": "OeUuwvuKlWnU4NlOJTO6",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 170,
+        "change": 20,
+        "name": "Krishna",
+        "id": "PNqhAc25ziMgIuHXS125"
+      },
+      "timestamp": {
+        "_seconds": 1748930693,
+        "_nanoseconds": 630731000
+      }
+    },
+    {
+      "id": "OpI64vFVW6dUv2xnf5jR",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-44-38.485Z.json",
+        "count": 0
+      },
+      "timestamp": {
+        "_seconds": 1748587478,
+        "_nanoseconds": 757000000
+      }
+    },
+    {
+      "id": "Ox7jaxwfBvWW4N5yNIhG",
+      "action": "Uploaded Class Data CSV",
+      "timestamp": {
+        "_seconds": 1748588093,
+        "_nanoseconds": 445000000
+      },
+      "details": {
+        "filename": "score_tracker_class_template (1).csv"
+      }
+    },
+    {
+      "id": "P1Rtfr5QpH95yt9SDObC",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 125,
+        "change": 25,
+        "name": "Surya",
+        "id": "WMGrzzddmOvo32ZYzqZs"
+      },
+      "timestamp": {
+        "_seconds": 1748923523,
+        "_nanoseconds": 638536000
+      }
+    },
+    {
+      "id": "P6iJ8WiwHZvEWk7mBsAG",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 135,
+        "customComment": "",
+        "newScore": 175,
+        "change": 40,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1748929601,
+        "_nanoseconds": 589458000
+      }
+    },
+    {
+      "id": "PIPuDq4szI9xDihGn9yH",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-11-47.578Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617907,
+        "_nanoseconds": 867000000
+      }
+    },
+    {
+      "id": "PJKC904ZR6SuNtOb0Vcf",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 175,
+        "change": 75,
+        "name": "Madhumitha",
+        "id": "WOooAeiJHIpiwd9fNsSf"
+      },
+      "timestamp": {
+        "_seconds": 1748924750,
+        "_nanoseconds": 440471000
+      }
+    },
+    {
+      "id": "PPx99NRv9xX3IHy4BcTx",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Custom",
+        "oldScore": 145,
+        "customComment": "imposition given",
+        "newScore": 115,
+        "change": -30,
+        "name": "Inbaraj",
+        "id": "OODyE1itBb4ru8Xle6XV"
+      },
+      "timestamp": {
+        "_seconds": 1749023192,
+        "_nanoseconds": 911219000
+      }
+    },
+    {
+      "id": "Pzm05LeHIeUhn3ffY6z0",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 180,
+        "change": 30,
+        "name": "Kaviya",
+        "id": "SeKbGSBTNAuxfwJa4Wsd"
+      },
+      "timestamp": {
+        "_seconds": 1749102996,
+        "_nanoseconds": 661961000
+      }
+    },
+    {
+      "id": "QA10aj3wZnpyCQtAa2iL",
+      "action": "Updated Group",
+      "details": {
+        "name": "Victory girls",
+        "id": "jhSfxb0E9EkVxL9CGmhE"
+      },
+      "timestamp": {
+        "_seconds": 1748857520,
+        "_nanoseconds": 939937000
+      }
+    },
+    {
+      "id": "QEfIzRBkwYt6mTmp0Fo2",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T14-24-22.675Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748615062,
+        "_nanoseconds": 963000000
+      }
+    },
+    {
+      "id": "QV06TwxgMFZ6KniQ0YdF",
+      "action": "Updated Group",
+      "details": {
+        "name": "Gang queens",
+        "id": "FANQKZQxGy08lqNIuvZ1"
+      },
+      "timestamp": {
+        "_seconds": 1748856938,
+        "_nanoseconds": 498502000
+      }
+    },
+    {
+      "id": "Qg2erR41DEm3tSPCfNuc",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 170,
+        "customComment": "",
+        "newScore": 200,
+        "change": 30,
+        "name": "Krishna",
+        "id": "PNqhAc25ziMgIuHXS125"
+      },
+      "timestamp": {
+        "_seconds": 1749011198,
+        "_nanoseconds": 131482000
+      }
+    },
+    {
+      "id": "QqBIV7g2y0sZdvoOtiQQ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-29.031Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617589,
+        "_nanoseconds": 362000000
+      }
+    },
+    {
+      "id": "QvVyVlnRCe6z8URgdAzW",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 155,
+        "change": 55,
+        "name": "Sathiya",
+        "id": "oySvVJsinMu6Ke10ePMZ"
+      },
+      "timestamp": {
+        "_seconds": 1748925623,
+        "_nanoseconds": 875094000
+      }
+    },
+    {
+      "id": "Qym0eDt5REGzTLRVVwiO",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 120,
+        "change": 20,
+        "name": "Madhivadhini",
+        "id": "rzyXEm35gEvMws5btD5T"
+      },
+      "timestamp": {
+        "_seconds": 1748926377,
+        "_nanoseconds": 983384000
+      }
+    },
+    {
+      "id": "RBbFzVQHSbva7lQAA0ST",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-42-08.864Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619729,
+        "_nanoseconds": 156000000
+      }
+    },
+    {
+      "id": "RN6V5xwZd5w0W17PcO8r",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-36-39.308Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619399,
+        "_nanoseconds": 601000000
+      }
+    },
+    {
+      "id": "ROcFeTu2vkHDdTzmwEgS",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-55.422Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617615,
+        "_nanoseconds": 686000000
+      }
+    },
+    {
+      "id": "RqldubDfAtIiLjcik5O6",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-45.239Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617545,
+        "_nanoseconds": 505000000
+      }
+    },
+    {
+      "id": "Sp7wNyZcMhelSVNjFfLA",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-10-53.292Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617853,
+        "_nanoseconds": 570000000
+      }
+    },
+    {
+      "id": "SwnuumUwRjXxDN3IbZc8",
+      "action": "Unarchived Student/Group",
+      "timestamp": {
+        "_seconds": 1749049143,
+        "_nanoseconds": 733000000
+      },
+      "details": {
+        "id": "cvNW1JIseZOVecYyReL2",
+        "name": "Akash",
+        "isArchived": false
+      }
+    },
+    {
+      "id": "TJVWJvwqs8abtYv5Mm64",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 150,
+        "change": 25,
+        "name": "Lithish",
+        "id": "RHHMRI8p6lfg9U1vFLP8"
+      },
+      "timestamp": {
+        "_seconds": 1749013968,
+        "_nanoseconds": 21775000
+      }
+    },
+    {
+      "id": "TZQNGJvgb0rut0C3uMBo",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-40.821Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619161,
+        "_nanoseconds": 123000000
+      }
+    },
+    {
+      "id": "TuEkYnbFi4rklaauxZzu",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-42-01.880Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619722,
+        "_nanoseconds": 194000000
+      }
+    },
+    {
+      "id": "Ty753Tb2YW2x18pG5JXn",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 125,
+        "change": 25,
+        "name": "Sunil",
+        "id": "J3nfgB2w7jkvG88H0mwn"
+      },
+      "timestamp": {
+        "_seconds": 1748923407,
+        "_nanoseconds": 538845000
+      }
+    },
+    {
+      "id": "U0rx6FvIeDwizfKzO69c",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 280,
+        "customComment": "",
+        "newScore": 310,
+        "change": 30,
+        "name": "Shanmugathan",
+        "id": "o7YIDm65kysQXXnY5iaP"
+      },
+      "timestamp": {
+        "_seconds": 1749103522,
+        "_nanoseconds": 762079000
+      }
+    },
+    {
+      "id": "U1Mxjft7r8b7QCHOZdVp",
+      "action": "Deleted Student/Group",
+      "details": {
+        "name": "new",
+        "id": "0JcuteXPMi23mtzzMs5t"
+      },
+      "timestamp": {
+        "_seconds": 1748720916,
+        "_nanoseconds": 381481000
+      }
+    },
+    {
+      "id": "U5b58gHya41IUnKp8332",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-48.526Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619108,
+        "_nanoseconds": 821000000
+      }
+    },
+    {
+      "id": "UAyPaRY52ABVbjT2klsg",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 160,
+        "customComment": "",
+        "newScore": 140,
+        "change": -20,
+        "name": "Dragon",
+        "id": "zKjh3hWYPb7ACp0cJGtq"
+      },
+      "timestamp": {
+        "_seconds": 1749019158,
+        "_nanoseconds": 929749000
+      }
+    },
+    {
+      "id": "UDiDdU3QlTcHayrLJLXy",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 200,
+        "customComment": "",
+        "newScore": 230,
+        "change": 30,
+        "name": "Sridivya",
+        "id": "7S4w5becWcSnCdAQHeh7"
+      },
+      "timestamp": {
+        "_seconds": 1749103764,
+        "_nanoseconds": 289395000
+      }
+    },
+    {
+      "id": "ULdvM7uaIXUSFMUUEeb3",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 145,
+        "change": 20,
+        "name": "Sunil",
+        "id": "J3nfgB2w7jkvG88H0mwn"
+      },
+      "timestamp": {
+        "_seconds": 1748924843,
+        "_nanoseconds": 432755000
+      }
+    },
+    {
+      "id": "UVhhY9TRjSmbQxubO6re",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 125,
+        "change": 25,
+        "name": "Kaviya",
+        "id": "SeKbGSBTNAuxfwJa4Wsd"
+      },
+      "timestamp": {
+        "_seconds": 1748926169,
+        "_nanoseconds": 918297000
+      }
+    },
+    {
+      "id": "UwtqBOXognK2flLYZqY0",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 165,
+        "change": 65,
+        "name": "Ranjana",
+        "id": "aXn5wMNzWfinuGVevN6m"
+      },
+      "timestamp": {
+        "_seconds": 1748925374,
+        "_nanoseconds": 948847000
+      }
+    },
+    {
+      "id": "V098Q72bduE3uiWyRe5u",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 145,
+        "customComment": "",
+        "newScore": 165,
+        "change": 20,
+        "name": "Madhivadhini",
+        "id": "rzyXEm35gEvMws5btD5T"
+      },
+      "timestamp": {
+        "_seconds": 1749103024,
+        "_nanoseconds": 200850000
+      }
+    },
+    {
+      "id": "V1kYGepfsXRuxOheH1Ul",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 120,
+        "change": 20,
+        "name": "Sridivya",
+        "id": "7S4w5becWcSnCdAQHeh7"
+      },
+      "timestamp": {
+        "_seconds": 1748924462,
+        "_nanoseconds": 596695000
+      }
+    },
+    {
+      "id": "VEznmysNLukAF7daDZ8B",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 135,
+        "customComment": "",
+        "newScore": 160,
+        "change": 25,
+        "name": "Doshani",
+        "id": "CyGip1dvNdTDBUKfFFn0"
+      },
+      "timestamp": {
+        "_seconds": 1749101072,
+        "_nanoseconds": 344136000
+      }
+    },
+    {
+      "id": "VQyMmhgCRyY8tFrucKmq",
+      "action": "Added Student",
+      "details": {
+        "classId": "7A",
+        "name": "Shanmugathan"
+      },
+      "timestamp": {
+        "_seconds": 1748838302,
+        "_nanoseconds": 406408000
+      }
+    },
+    {
+      "id": "VSEG5C1beQWW17hG9Cmq",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 175,
+        "customComment": "",
+        "newScore": 200,
+        "change": 25,
+        "name": "Dhanalakshmi",
+        "id": "ONSBgKehd6xEiJJEgvS0"
+      },
+      "timestamp": {
+        "_seconds": 1749011479,
+        "_nanoseconds": 330150000
+      }
+    },
+    {
+      "id": "VYxvpJPWFrZgjMmMenrV",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 245,
+        "customComment": "",
+        "newScore": 270,
+        "change": 25,
+        "name": "Yuvanesh",
+        "id": "lQWDgB8EMlKQaW3Zj8DH"
+      },
+      "timestamp": {
+        "_seconds": 1749103427,
+        "_nanoseconds": 487111000
+      }
+    },
+    {
+      "id": "Vc5IBqv1JrMnWgjvpbjc",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 180,
+        "change": 80,
+        "name": "Gang queens",
+        "id": "FANQKZQxGy08lqNIuvZ1"
+      },
+      "timestamp": {
+        "_seconds": 1749019182,
+        "_nanoseconds": 784227000
+      }
+    },
+    {
+      "id": "VekDEyjlotkVeed1tbsE",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-34.813Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619155,
+        "_nanoseconds": 106000000
+      }
+    },
+    {
+      "id": "Vf3lPDeErzRzEhqZGlwk",
+      "action": "Viewed All App Data",
+      "timestamp": {
+        "_seconds": 1748588133,
+        "_nanoseconds": 532000000
+      },
+      "details": {}
+    },
+    {
+      "id": "Vn69ivIOddsLwxNNuKij",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 230,
+        "customComment": "",
+        "newScore": 210,
+        "change": -20,
+        "name": "Sridivya",
+        "id": "7S4w5becWcSnCdAQHeh7"
+      },
+      "timestamp": {
+        "_seconds": 1749103861,
+        "_nanoseconds": 836062000
+      }
+    },
+    {
+      "id": "W63Amb6j2YdsaZbaNr30",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 180,
+        "change": 80,
+        "name": "Varshini Sasikumar",
+        "id": "kY0UnYzuzqRMxQhb1plc"
+      },
+      "timestamp": {
+        "_seconds": 1748925221,
+        "_nanoseconds": 227760000
+      }
+    },
+    {
+      "id": "W8wvy6VWdtEyTddtYN8O",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 200,
+        "customComment": "",
+        "newScore": 225,
+        "change": 25,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1749102834,
+        "_nanoseconds": 852446000
+      }
+    },
+    {
+      "id": "WC0VERnK7H4wEJWJgzQi",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-14-06.907Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618047,
+        "_nanoseconds": 183000000
+      }
+    },
+    {
+      "id": "WF3KkAnl7cmsPerO93RN",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 165,
+        "customComment": "",
+        "newScore": 190,
+        "change": 25,
+        "name": "Ansar",
+        "id": "eKTskn5JsfdUYwt6PzqB"
+      },
+      "timestamp": {
+        "_seconds": 1749014452,
+        "_nanoseconds": 470210000
+      }
+    },
+    {
+      "id": "WMLLphngZZnIxVy97HXF",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 115,
+        "customComment": "",
+        "newScore": 105,
+        "change": -10,
+        "name": "Doshani",
+        "id": "CyGip1dvNdTDBUKfFFn0"
+      },
+      "timestamp": {
+        "_seconds": 1748930605,
+        "_nanoseconds": 505556000
+      }
+    },
+    {
+      "id": "WMmymOiql2zQndmzjwdR",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 120,
+        "customComment": "",
+        "newScore": 145,
+        "change": 25,
+        "name": "Victor",
+        "id": "nKolAqxar0bLK3xGvEjn"
+      },
+      "timestamp": {
+        "_seconds": 1748930764,
+        "_nanoseconds": 583916000
+      }
+    },
+    {
+      "id": "WPHCfBUkq5VsToXaLEkC",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 130,
+        "customComment": "",
+        "newScore": 150,
+        "change": 20,
+        "name": "Saravana",
+        "id": "Edra4p7BHvu3MdK68KPj"
+      },
+      "timestamp": {
+        "_seconds": 1749014574,
+        "_nanoseconds": 280693000
+      }
+    },
+    {
+      "id": "WRkYrHfrL0Pz8rCHACMF",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T14-24-19.696Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748615059,
+        "_nanoseconds": 997000000
+      }
+    },
+    {
+      "id": "WYsNF3YoeqGhvoIGqedq",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 155,
+        "change": 30,
+        "name": "Sham",
+        "id": "OxaTvkBG7uJFIOIqWX3u"
+      },
+      "timestamp": {
+        "_seconds": 1749101316,
+        "_nanoseconds": 57258000
+      }
+    },
+    {
+      "id": "WdYekWsoMSlWR5lrS309",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 175,
+        "change": 50,
+        "name": "Surya",
+        "id": "WMGrzzddmOvo32ZYzqZs"
+      },
+      "timestamp": {
+        "_seconds": 1748926451,
+        "_nanoseconds": 608916000
+      }
+    },
+    {
+      "id": "WkKnyym3o63YzLavjVLk",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-35.285Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619215,
+        "_nanoseconds": 601000000
+      }
+    },
+    {
+      "id": "Wsb4cjSfyGTR6cg68VNg",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-35.144Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618195,
+        "_nanoseconds": 399000000
+      }
+    },
+    {
+      "id": "XAi2ZhbwSNSNY3OY5yiI",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 155,
+        "customComment": "",
+        "newScore": 125,
+        "change": -30,
+        "name": "Sham",
+        "id": "OxaTvkBG7uJFIOIqWX3u"
+      },
+      "timestamp": {
+        "_seconds": 1749014836,
+        "_nanoseconds": 990788000
+      }
+    },
+    {
+      "id": "XdL4plcNnfehbZszWyl5",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-13.729Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618174,
+        "_nanoseconds": 14000000
+      }
+    },
+    {
+      "id": "XnUt7YLqdTxscWlXqE0m",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 145,
+        "change": 45,
+        "name": "Varshini Srinivasan",
+        "id": "DRGaZXvXGdEewsvS8EaW"
+      },
+      "timestamp": {
+        "_seconds": 1748925287,
+        "_nanoseconds": 464278000
+      }
+    },
+    {
+      "id": "XwQYJJ7KXDGpWbADDbej",
+      "action": "Updated Group",
+      "details": {
+        "name": "Gang queens",
+        "id": "FANQKZQxGy08lqNIuvZ1"
+      },
+      "timestamp": {
+        "_seconds": 1748856985,
+        "_nanoseconds": 950992000
+      }
+    },
+    {
+      "id": "XwuBn0RjRjrdnYU6vvAa",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-19.885Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619200,
+        "_nanoseconds": 182000000
+      }
+    },
+    {
+      "id": "Y5Qbzbq2O2Wct2zjK4cK",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-23.905Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617584,
+        "_nanoseconds": 160000000
+      }
+    },
+    {
+      "id": "YGx4fBmM39vktx88LOlJ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 175,
+        "customComment": "",
+        "newScore": 155,
+        "change": -20,
+        "name": "Sathiya",
+        "id": "oySvVJsinMu6Ke10ePMZ"
+      },
+      "timestamp": {
+        "_seconds": 1749103912,
+        "_nanoseconds": 98249000
+      }
+    },
+    {
+      "id": "YsjcNRhhCzIFT9u4J4vg",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 200,
+        "customComment": "",
+        "newScore": 225,
+        "change": 25,
+        "name": "Dhanalakshmi",
+        "id": "ONSBgKehd6xEiJJEgvS0"
+      },
+      "timestamp": {
+        "_seconds": 1749101593,
+        "_nanoseconds": 884724000
+      }
+    },
+    {
+      "id": "Z7ChXaoqwYnsUP7RWDD9",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Class participation",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 120,
+        "change": 20,
+        "name": "aaa",
+        "id": "gtfjllQuKw3kBoPz0zyT"
+      },
+      "timestamp": {
+        "_seconds": 1748720942,
+        "_nanoseconds": 743700000
+      }
+    },
+    {
+      "id": "ZRLYnqz98jb9mbgttSCV",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-14-39.178Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618079,
+        "_nanoseconds": 449000000
+      }
+    },
+    {
+      "id": "ZXFrHyHPPi291SaGUD6x",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 155,
+        "change": 55,
+        "name": "Ansar",
+        "id": "eKTskn5JsfdUYwt6PzqB"
+      },
+      "timestamp": {
+        "_seconds": 1748925447,
+        "_nanoseconds": 781722000
+      }
+    },
+    {
+      "id": "a0CslBMRtYQCYpKNWx8B",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 180,
+        "customComment": "",
+        "newScore": 220,
+        "change": 40,
+        "name": "Mugunthan",
+        "id": "PYsMbcToMkiHa51G43ql"
+      },
+      "timestamp": {
+        "_seconds": 1748930723,
+        "_nanoseconds": 146317000
+      }
+    },
+    {
+      "id": "aCnRN9vJuZ799eVef5l9",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 175,
+        "change": 75,
+        "name": "Dhanalakshmi",
+        "id": "ONSBgKehd6xEiJJEgvS0"
+      },
+      "timestamp": {
+        "_seconds": 1748926072,
+        "_nanoseconds": 143766000
+      }
+    },
+    {
+      "id": "aZBJzCSHOlUhiQzGDikG",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 200,
+        "customComment": "",
+        "newScore": 225,
+        "change": 25,
+        "name": "Surya",
+        "id": "WMGrzzddmOvo32ZYzqZs"
+      },
+      "timestamp": {
+        "_seconds": 1749012414,
+        "_nanoseconds": 741515000
+      }
+    },
+    {
+      "id": "aiYMpUDO74LoAPShvjBR",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-20-30.473Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618430,
+        "_nanoseconds": 753000000
+      }
+    },
+    {
+      "id": "akJcljhfaJsBUmjICtpc",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 170,
+        "customComment": "",
+        "newScore": 150,
+        "change": -20,
+        "name": "Mathesh",
+        "id": "ZfuNN4afokwQ1RsqB1Fr"
+      },
+      "timestamp": {
+        "_seconds": 1748930635,
+        "_nanoseconds": 428983000
+      }
+    },
+    {
+      "id": "ao00P7B4uLigNwiBY0vA",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 190,
+        "change": 90,
+        "name": "Shanmugathan",
+        "id": "o7YIDm65kysQXXnY5iaP"
+      },
+      "timestamp": {
+        "_seconds": 1748924265,
+        "_nanoseconds": 46248000
+      }
+    },
+    {
+      "id": "apKmdyS00Xw0Sbe8sRBK",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 290,
+        "customComment": "",
+        "newScore": 245,
+        "change": -45,
+        "name": "Mr.Beast",
+        "id": "qRbHmDyLIhujkZp1aw8l"
+      },
+      "timestamp": {
+        "_seconds": 1749019262,
+        "_nanoseconds": 27075000
+      }
+    },
+    {
+      "id": "b3CiXTMNAkQzK3JQwZVQ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 170,
+        "customComment": "",
+        "newScore": 200,
+        "change": 30,
+        "name": "Sridivya",
+        "id": "7S4w5becWcSnCdAQHeh7"
+      },
+      "timestamp": {
+        "_seconds": 1749102909,
+        "_nanoseconds": 970698000
+      }
+    },
+    {
+      "id": "b4jNs4Z9KUcYhfkBUyuA",
+      "action": "Performed Backup",
+      "timestamp": {
+        "_seconds": 1748802861,
+        "_nanoseconds": 220000000
+      },
+      "details": {}
+    },
+    {
+      "id": "bG15S6iuBwyenr6SRCjj",
+      "action": "Multi-Edit Score Update",
+      "timestamp": {
+        "_seconds": 1748620329,
+        "_nanoseconds": 549000000
+      },
+      "details": {
+        "count": 1,
+        "failed": 0
+      }
+    },
+    {
+      "id": "bWq292OO6RpPqnKa8lFh",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 145,
+        "customComment": "",
+        "newScore": 170,
+        "change": 25,
+        "name": "Sunil",
+        "id": "J3nfgB2w7jkvG88H0mwn"
+      },
+      "timestamp": {
+        "_seconds": 1749101510,
+        "_nanoseconds": 368855000
+      }
+    },
+    {
+      "id": "blohLqBTlh5WjtNrnszC",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 165,
+        "customComment": "",
+        "newScore": 145,
+        "change": -20,
+        "name": "Inbaraj",
+        "id": "OODyE1itBb4ru8Xle6XV"
+      },
+      "timestamp": {
+        "_seconds": 1749103845,
+        "_nanoseconds": 306965000
+      }
+    },
+    {
+      "id": "bovB17lplHjY0gp33aP0",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 150,
+        "change": 25,
+        "name": "Mugunthan",
+        "id": "PYsMbcToMkiHa51G43ql"
+      },
+      "timestamp": {
+        "_seconds": 1748925039,
+        "_nanoseconds": 270930000
+      }
+    },
+    {
+      "id": "bpuQsqKldXrvo5BlA28w",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 240,
+        "customComment": "",
+        "newScore": 270,
+        "change": 30,
+        "name": "Kiruthika",
+        "id": "glxVOiOtbLPS7UgcEIDt"
+      },
+      "timestamp": {
+        "_seconds": 1749101251,
+        "_nanoseconds": 927615000
+      }
+    },
+    {
+      "id": "c6UnZGNQsOH4MswCkfH7",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 220,
+        "customComment": "",
+        "newScore": 200,
+        "change": -20,
+        "name": "Ranjana",
+        "id": "aXn5wMNzWfinuGVevN6m"
+      },
+      "timestamp": {
+        "_seconds": 1749014805,
+        "_nanoseconds": 103120000
+      }
+    },
+    {
+      "id": "c7pEHFmT5J5byTzmQnjT",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-20.332Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619080,
+        "_nanoseconds": 622000000
+      }
+    },
+    {
+      "id": "cIOd5uwpQd2SfbsmGmjN",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-54-52.712Z.json",
+        "count": 0
+      },
+      "timestamp": {
+        "_seconds": 1748588092,
+        "_nanoseconds": 978000000
+      }
+    },
+    {
+      "id": "clrI83ndprHsKtpAyC3x",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-20-03.663Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618403,
+        "_nanoseconds": 939000000
+      }
+    },
+    {
+      "id": "czlASnxEw0vCZUMGYfn5",
+      "action": "Deleted Student/Group",
+      "details": {
+        "name": "aaa",
+        "id": "gtfjllQuKw3kBoPz0zyT"
+      },
+      "timestamp": {
+        "_seconds": 1748770338,
+        "_nanoseconds": 369706000
+      }
+    },
+    {
+      "id": "d8wbxieGye1OK1Z973RZ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-48-30.141Z.json",
+        "count": 0
+      },
+      "timestamp": {
+        "_seconds": 1748587710,
+        "_nanoseconds": 371000000
+      }
+    },
+    {
+      "id": "dPniuF5y1XCXapeflbWX",
+      "action": "Multi-Edit Score Update",
+      "timestamp": {
+        "_seconds": 1748620451,
+        "_nanoseconds": 932000000
+      },
+      "details": {
+        "count": 37,
+        "failed": 0
+      }
+    },
+    {
+      "id": "dkg87IU6OKyzNgQw09sn",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 160,
+        "customComment": "",
+        "newScore": 170,
+        "change": 10,
+        "name": "Yuvanesh",
+        "id": "lQWDgB8EMlKQaW3Zj8DH"
+      },
+      "timestamp": {
+        "_seconds": 1748924562,
+        "_nanoseconds": 649149000
+      }
+    },
+    {
+      "id": "dlkVSTTvmf760coL8YRy",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-43.063Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619163,
+        "_nanoseconds": 348000000
+      }
+    },
+    {
+      "id": "doOA0ykJv5peQmdVftT8",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 210,
+        "customComment": "",
+        "newScore": 235,
+        "change": 25,
+        "name": "Ansar",
+        "id": "eKTskn5JsfdUYwt6PzqB"
+      },
+      "timestamp": {
+        "_seconds": 1749102580,
+        "_nanoseconds": 853179000
+      }
+    },
+    {
+      "id": "eTr8MJYjtym2AWta50g1",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 165,
+        "customComment": "",
+        "newScore": 190,
+        "change": 25,
+        "name": "Sanjana",
+        "id": "CagmbsRXc020M5Gylny8"
+      },
+      "timestamp": {
+        "_seconds": 1749102951,
+        "_nanoseconds": 691729000
+      }
+    },
+    {
+      "id": "ee4D2gfv8Znkf8Q0cvd1",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-29.808Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619090,
+        "_nanoseconds": 104000000
+      }
+    },
+    {
+      "id": "ek0zut5olMbofUF42S0q",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 190,
+        "change": 90,
+        "name": "Kiruthika",
+        "id": "glxVOiOtbLPS7UgcEIDt"
+      },
+      "timestamp": {
+        "_seconds": 1748925943,
+        "_nanoseconds": 256717000
+      }
+    },
+    {
+      "id": "ez5aLHxpgbcDHTmnQSeG",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-36.514Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619156,
+        "_nanoseconds": 796000000
+      }
+    },
+    {
+      "id": "f4rCLYs0vWp88fCr0tE9",
+      "action": "Reset Scores for Class",
+      "details": {
+        "classId": "7A"
+      },
+      "timestamp": {
+        "_seconds": 1748721179,
+        "_nanoseconds": 626420000
+      }
+    },
+    {
+      "id": "fH5rSNfKsFqEICbHPkwQ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-49.980Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617550,
+        "_nanoseconds": 237000000
+      }
+    },
+    {
+      "id": "fPbfjPjkqaO2iuafl1QK",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-29.315Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618189,
+        "_nanoseconds": 572000000
+      }
+    },
+    {
+      "id": "fi57SCxfyjhtcATSXlGK",
+      "action": "Viewed All App Data",
+      "details": {},
+      "timestamp": {
+        "_seconds": 1748693760,
+        "_nanoseconds": 373720000
+      }
+    },
+    {
+      "id": "fiaNSIixZh5JD6AcbWbi",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-26.847Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619087,
+        "_nanoseconds": 144000000
+      }
+    },
+    {
+      "id": "gOiaAtdCHhyCNKJgaDMa",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 130,
+        "change": -20,
+        "name": "Saravana",
+        "id": "Edra4p7BHvu3MdK68KPj"
+      },
+      "timestamp": {
+        "_seconds": 1748926601,
+        "_nanoseconds": 877146000
+      }
+    },
+    {
+      "id": "gnZodprcc4z9hyg1uqbE",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 180,
+        "change": 80,
+        "name": "Mr.Beast",
+        "id": "qRbHmDyLIhujkZp1aw8l"
+      },
+      "timestamp": {
+        "_seconds": 1749019211,
+        "_nanoseconds": 412150000
+      }
+    },
+    {
+      "id": "hKxWnpuZDh95NAnxYgQU",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 130,
+        "change": 30,
+        "name": "Lithish",
+        "id": "RHHMRI8p6lfg9U1vFLP8"
+      },
+      "timestamp": {
+        "_seconds": 1748924409,
+        "_nanoseconds": 691703000
+      }
+    },
+    {
+      "id": "hU1lxitrIAU0IFdYj2Dx",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-42-06.598Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619726,
+        "_nanoseconds": 890000000
+      }
+    },
+    {
+      "id": "htU2muRLg64uBtahhA9V",
+      "action": "Uploaded Class Template (Server-side)",
+      "details": {
+        "newEntriesCount": 70
+      },
+      "timestamp": {
+        "_seconds": 1748588093,
+        "_nanoseconds": 502000000
+      }
+    },
+    {
+      "id": "hy1nsDR7cPRHgzT2pUCo",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 285,
+        "customComment": "",
+        "newScore": 265,
+        "change": -20,
+        "name": "Mugunthan",
+        "id": "PYsMbcToMkiHa51G43ql"
+      },
+      "timestamp": {
+        "_seconds": 1749103889,
+        "_nanoseconds": 156763000
+      }
+    },
+    {
+      "id": "hynLYahpePSmYBNqvDRV",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 175,
+        "change": 25,
+        "name": "Saravana",
+        "id": "Edra4p7BHvu3MdK68KPj"
+      },
+      "timestamp": {
+        "_seconds": 1749101665,
+        "_nanoseconds": 48175000
+      }
+    },
+    {
+      "id": "iGXbhDNyDoT2xCVnPxce",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-23.972Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619084,
+        "_nanoseconds": 257000000
+      }
+    },
+    {
+      "id": "iJ2q9Jnol1anjVFk8Fzv",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-13.557Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619193,
+        "_nanoseconds": 840000000
+      }
+    },
+    {
+      "id": "iOhimiqak5iJysRKXLII",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 125,
+        "change": 25,
+        "name": "Mugunthan",
+        "id": "PYsMbcToMkiHa51G43ql"
+      },
+      "timestamp": {
+        "_seconds": 1748923346,
+        "_nanoseconds": 995377000
+      }
+    },
+    {
+      "id": "idvAqGQM7Upe2YDFJjJn",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-12-05.408Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617925,
+        "_nanoseconds": 670000000
+      }
+    },
+    {
+      "id": "iiuINqb5wTobQcUdbAsk",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-24.203Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619084,
+        "_nanoseconds": 498000000
+      }
+    },
+    {
+      "id": "j3r4n98NCpodfOyk4cyv",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 125,
+        "customComment": "",
+        "newScore": 150,
+        "change": 25,
+        "name": "Ariya",
+        "id": "dCDlolsx1Lah8I65bkBh"
+      },
+      "timestamp": {
+        "_seconds": 1749101435,
+        "_nanoseconds": 470388000
+      }
+    },
+    {
+      "id": "jDYWLn4k2GdVYPAoH0v0",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 210,
+        "customComment": "",
+        "newScore": 235,
+        "change": 25,
+        "name": "Varshini Sasikumar",
+        "id": "kY0UnYzuzqRMxQhb1plc"
+      },
+      "timestamp": {
+        "_seconds": 1749012548,
+        "_nanoseconds": 255285000
+      }
+    },
+    {
+      "id": "jEHZ5POyCvDf8RrebeHH",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-36-51.822Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619412,
+        "_nanoseconds": 139000000
+      }
+    },
+    {
+      "id": "k4a6yzTF0GUp70AQEG4Z",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 180,
+        "customComment": "",
+        "newScore": 170,
+        "change": -10,
+        "name": "Gang queens",
+        "id": "FANQKZQxGy08lqNIuvZ1"
+      },
+      "timestamp": {
+        "_seconds": 1749019196,
+        "_nanoseconds": 81047000
+      }
+    },
+    {
+      "id": "kDwnDOfCMGA64k3iduby",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-13-16.677Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617996,
+        "_nanoseconds": 952000000
+      }
+    },
+    {
+      "id": "kRbGAPR9uFTzc9n01dxK",
+      "action": "Updated Group",
+      "details": {
+        "name": "Mr.Beast",
+        "id": "qRbHmDyLIhujkZp1aw8l"
+      },
+      "timestamp": {
+        "_seconds": 1748928131,
+        "_nanoseconds": 742264000
+      }
+    },
+    {
+      "id": "kXktjTpil9bUFpocw4WD",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-55.213Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617615,
+        "_nanoseconds": 485000000
+      }
+    },
+    {
+      "id": "kbCB3ahv5t21jjxFlRs3",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-03.746Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619124,
+        "_nanoseconds": 49000000
+      }
+    },
+    {
+      "id": "kdaV0dDfNgrUlZwUFcbi",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 250,
+        "customComment": "",
+        "newScore": 285,
+        "change": 35,
+        "name": "Mugunthan",
+        "id": "PYsMbcToMkiHa51G43ql"
+      },
+      "timestamp": {
+        "_seconds": 1749101387,
+        "_nanoseconds": 148027000
+      }
+    },
+    {
+      "id": "khXdS6Yqs3XqNfwzQlIk",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-47-56.581Z.json",
+        "count": 0
+      },
+      "timestamp": {
+        "_seconds": 1748587676,
+        "_nanoseconds": 829000000
+      }
+    },
+    {
+      "id": "klmm5LB3yJkmk7gvCapI",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 170,
+        "customComment": "",
+        "newScore": 195,
+        "change": 25,
+        "name": "Victor",
+        "id": "nKolAqxar0bLK3xGvEjn"
+      },
+      "timestamp": {
+        "_seconds": 1749101041,
+        "_nanoseconds": 652636000
+      }
+    },
+    {
+      "id": "kx5gTkKniZql9IvHDlOs",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-36.159Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617536,
+        "_nanoseconds": 462000000
+      }
+    },
+    {
+      "id": "lFUZHy7AUS4oirQRTG6Q",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 160,
+        "change": 60,
+        "name": "Dragon",
+        "id": "zKjh3hWYPb7ACp0cJGtq"
+      },
+      "timestamp": {
+        "_seconds": 1749019147,
+        "_nanoseconds": 684318000
+      }
+    },
+    {
+      "id": "lP3288omrlVDPFhsmGYH",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-17.923Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619198,
+        "_nanoseconds": 221000000
+      }
+    },
+    {
+      "id": "lceVaioAPpvliDVUkQdp",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 90,
+        "change": -10,
+        "name": "Gugan",
+        "id": "4XpYx6BBLPkivw1ELIpl"
+      },
+      "timestamp": {
+        "_seconds": 1748869431,
+        "_nanoseconds": 787991000
+      }
+    },
+    {
+      "id": "lkqV6iwxkHy5SYWFSMeS",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-27.090Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619087,
+        "_nanoseconds": 388000000
+      }
+    },
+    {
+      "id": "mKs6B2gOhHpUuzhoCOIv",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-35.000Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619155,
+        "_nanoseconds": 284000000
+      }
+    },
+    {
+      "id": "mcIkwcVVU9YKRezFn4vH",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 195,
+        "customComment": "",
+        "newScore": 220,
+        "change": 25,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1749014546,
+        "_nanoseconds": 998594000
+      }
+    },
+    {
+      "id": "mfbdlgGLEDQWWddHN1tj",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-25.959Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619146,
+        "_nanoseconds": 258000000
+      }
+    },
+    {
+      "id": "mkeE5kWaDWcpR1bWH2rS",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Custom",
+        "oldScore": 100,
+        "customComment": "tt",
+        "newScore": -10,
+        "change": -110,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1748721161,
+        "_nanoseconds": 389369000
+      }
+    },
+    {
+      "id": "mu1M1smFVdS1CnvbQSQG",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-31.359Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619151,
+        "_nanoseconds": 648000000
+      }
+    },
+    {
+      "id": "nIXKyj5IntfYItbOQvnV",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-11-50.171Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617910,
+        "_nanoseconds": 449000000
+      }
+    },
+    {
+      "id": "nOtodpBe3NR8evL3s7BG",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T07-01-47.683Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748588507,
+        "_nanoseconds": 892000000
+      }
+    },
+    {
+      "id": "nPOSFOrpFfKFjo2t4Kcz",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 190,
+        "customComment": "",
+        "newScore": 210,
+        "change": 20,
+        "name": "Ansar",
+        "id": "eKTskn5JsfdUYwt6PzqB"
+      },
+      "timestamp": {
+        "_seconds": 1749025717,
+        "_nanoseconds": 418413000
+      }
+    },
+    {
+      "id": "ndkLqPotxzNXyyZEsa63",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-37.419Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618197,
+        "_nanoseconds": 685000000
+      }
+    },
+    {
+      "id": "nhLBs7rF72vsEyqda2I8",
+      "action": "Archived Student/Group",
+      "timestamp": {
+        "_seconds": 1749050691,
+        "_nanoseconds": 94000000
+      },
+      "details": {
+        "id": "cvNW1JIseZOVecYyReL2",
+        "name": "Akash",
+        "isArchived": true
+      }
+    },
+    {
+      "id": "o1JE4odqckSfQ6SX9GDN",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 135,
+        "customComment": "",
+        "newScore": 165,
+        "change": 30,
+        "name": "Varshini Srinivasan",
+        "id": "DRGaZXvXGdEewsvS8EaW"
+      },
+      "timestamp": {
+        "_seconds": 1748929531,
+        "_nanoseconds": 165360000
+      }
+    },
+    {
+      "id": "o9BAy4dPUcycCP4XFXNQ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-43.321Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619163,
+        "_nanoseconds": 607000000
+      }
+    },
+    {
+      "id": "oCBP6vkRoZEhB8UUEYiF",
+      "action": "Added Group",
+      "details": {
+        "classId": "7A",
+        "name": "tt"
+      },
+      "timestamp": {
+        "_seconds": 1748710841,
+        "_nanoseconds": 819861000
+      }
+    },
+    {
+      "id": "oJz9LMwBEVeHXFpOKzqY",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 135,
+        "customComment": "",
+        "newScore": 165,
+        "change": 30,
+        "name": "Inbaraj",
+        "id": "OODyE1itBb4ru8Xle6XV"
+      },
+      "timestamp": {
+        "_seconds": 1749102754,
+        "_nanoseconds": 475484000
+      }
+    },
+    {
+      "id": "oeKJSjsND8QC3qG6MlyY",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-08.223Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618168,
+        "_nanoseconds": 490000000
+      }
+    },
+    {
+      "id": "omq01bGH9YtLijWl0kXk",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 165,
+        "customComment": "",
+        "newScore": 195,
+        "change": 30,
+        "name": "Abjal",
+        "id": "WJVojffpjF1DubOT0bTa"
+      },
+      "timestamp": {
+        "_seconds": 1748930665,
+        "_nanoseconds": 712780000
+      }
+    },
+    {
+      "id": "oxjlyB3KZWUwHtjz4e9K",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-14-55.844Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618096,
+        "_nanoseconds": 120000000
+      }
+    },
+    {
+      "id": "ozLUsYXMYHz84SnEswJZ",
+      "action": "Added Group",
+      "details": {
+        "classId": "7A",
+        "name": "Victory girls"
+      },
+      "timestamp": {
+        "_seconds": 1748857486,
+        "_nanoseconds": 114638000
+      }
+    },
+    {
+      "id": "p8xnVXjv6FjyNM8IRFal",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-36-40.613Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619400,
+        "_nanoseconds": 915000000
+      }
+    },
+    {
+      "id": "pApxxn1qpXzbLa0c0Tzm",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-20-05.817Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618406,
+        "_nanoseconds": 100000000
+      }
+    },
+    {
+      "id": "pBkDvxPp8YonT67KqFxC",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 170,
+        "customComment": "",
+        "newScore": 290,
+        "change": 120,
+        "name": "Mr.Beast",
+        "id": "qRbHmDyLIhujkZp1aw8l"
+      },
+      "timestamp": {
+        "_seconds": 1749019248,
+        "_nanoseconds": 414860000
+      }
+    },
+    {
+      "id": "pHeVhOEN3TiMzhvwi146",
+      "action": "Deleted Student/Group",
+      "details": {
+        "name": "aaa",
+        "id": "6OBXa4gfFwRbCdfSQpZh"
+      },
+      "timestamp": {
+        "_seconds": 1748720914,
+        "_nanoseconds": 906669000
+      }
+    },
+    {
+      "id": "pTcfQfB3iWEEqrEdzgFp",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 155,
+        "change": 55,
+        "name": "Sham",
+        "id": "OxaTvkBG7uJFIOIqWX3u"
+      },
+      "timestamp": {
+        "_seconds": 1749011411,
+        "_nanoseconds": 382923000
+      }
+    },
+    {
+      "id": "po2nsc8vLrZjW5UP0ivp",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-31.248Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619091,
+        "_nanoseconds": 531000000
+      }
+    },
+    {
+      "id": "q2293TMXHSt33fi4KUmo",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-54.000Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619174,
+        "_nanoseconds": 287000000
+      }
+    },
+    {
+      "id": "q7G6KEEq3tsT1o41LZmT",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-58-07.732Z.json",
+        "count": 70
+      },
+      "timestamp": {
+        "_seconds": 1748588287,
+        "_nanoseconds": 964000000
+      }
+    },
+    {
+      "id": "qFIQAFDsrnYgh3oo9N2K",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 150,
+        "customComment": "",
+        "newScore": 175,
+        "change": 25,
+        "name": "Lithish",
+        "id": "RHHMRI8p6lfg9U1vFLP8"
+      },
+      "timestamp": {
+        "_seconds": 1749102673,
+        "_nanoseconds": 290606000
+      }
+    },
+    {
+      "id": "qGQOLAfr4WLD3hZJUuPf",
+      "action": "Deleted Student/Group",
+      "details": {
+        "name": "tt",
+        "id": "1tz50Y8H1VH7eF63yoRi"
+      },
+      "timestamp": {
+        "_seconds": 1748720917,
+        "_nanoseconds": 777969000
+      }
+    },
+    {
+      "id": "qLTbvvFugbqF2JwjfdZT",
+      "action": "Updated Group",
+      "details": {
+        "name": "Dragon",
+        "id": "zKjh3hWYPb7ACp0cJGtq"
+      },
+      "timestamp": {
+        "_seconds": 1748927888,
+        "_nanoseconds": 645056000
+      }
+    },
+    {
+      "id": "qVo0xmRfVxztGWYWzeh1",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 110,
+        "customComment": "",
+        "newScore": 120,
+        "change": 10,
+        "name": "Victor",
+        "id": "nKolAqxar0bLK3xGvEjn"
+      },
+      "timestamp": {
+        "_seconds": 1748924541,
+        "_nanoseconds": 507761000
+      }
+    },
+    {
+      "id": "qbGA9PrUsFPVyc7D3wBB",
+      "action": "Updated Group",
+      "details": {
+        "name": "Dragon",
+        "id": "zKjh3hWYPb7ACp0cJGtq"
+      },
+      "timestamp": {
+        "_seconds": 1748928123,
+        "_nanoseconds": 645447000
+      }
+    },
+    {
+      "id": "qnNGrBclCysNnJP8rgBJ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-14-53.128Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618093,
+        "_nanoseconds": 401000000
+      }
+    },
+    {
+      "id": "qtZLHBTtFOh690qLx8JW",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 110,
+        "change": 10,
+        "name": "Vishwa",
+        "id": "hgWn1rUCxi6KhiT0mP4e"
+      },
+      "timestamp": {
+        "_seconds": 1749012336,
+        "_nanoseconds": 236961000
+      }
+    },
+    {
+      "id": "qvJNKEjnvrCMHMO1OzBm",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-50.846Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618211,
+        "_nanoseconds": 144000000
+      }
+    },
+    {
+      "id": "rVFKcEkVD1CrTBF5d2DV",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-30-53.285Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619053,
+        "_nanoseconds": 581000000
+      }
+    },
+    {
+      "id": "rciwOdDvUakv9rnHh434",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 160,
+        "change": 60,
+        "name": "Yuvanesh",
+        "id": "lQWDgB8EMlKQaW3Zj8DH"
+      },
+      "timestamp": {
+        "_seconds": 1748923893,
+        "_nanoseconds": 623645000
+      }
+    },
+    {
+      "id": "rkyshMdwYsk0VBgNtFvm",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 165,
+        "customComment": "",
+        "newScore": 195,
+        "change": 30,
+        "name": "Ranjana",
+        "id": "aXn5wMNzWfinuGVevN6m"
+      },
+      "timestamp": {
+        "_seconds": 1748932179,
+        "_nanoseconds": 844138000
+      }
+    },
+    {
+      "id": "rmLsJ9ILlV6uwbMMC8Ib",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 195,
+        "customComment": "",
+        "newScore": 220,
+        "change": 25,
+        "name": "Ranjana",
+        "id": "aXn5wMNzWfinuGVevN6m"
+      },
+      "timestamp": {
+        "_seconds": 1749013687,
+        "_nanoseconds": 858066000
+      }
+    },
+    {
+      "id": "rpIWwPUydMzrilm493xZ",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-27.268Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617587,
+        "_nanoseconds": 520000000
+      }
+    },
+    {
+      "id": "scQVjPL6kygRkFHBSGz7",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 90,
+        "customComment": "",
+        "newScore": 110,
+        "change": 20,
+        "name": "Gugan",
+        "id": "4XpYx6BBLPkivw1ELIpl"
+      },
+      "timestamp": {
+        "_seconds": 1748923977,
+        "_nanoseconds": 656859000
+      }
+    },
+    {
+      "id": "snRvBmImjOEjt8AOWA8a",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-08.207Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618168,
+        "_nanoseconds": 504000000
+      }
+    },
+    {
+      "id": "spaTGTn9NEKqNUjtQCz2",
+      "action": "Reset Scores for Class",
+      "details": {
+        "classId": "7A"
+      },
+      "timestamp": {
+        "_seconds": 1748721021,
+        "_nanoseconds": 484987000
+      }
+    },
+    {
+      "id": "svQUi0TrjdKArUnd0Ip7",
+      "action": "Undid Score Update",
+      "timestamp": {
+        "_seconds": 1748618309,
+        "_nanoseconds": 503000000
+      },
+      "details": {
+        "name": "Akash",
+        "undoneScore": 70,
+        "undoneComment": "",
+        "newScore": 100,
+        "message": "Undid last score update for Akash. Score reset to 100 as history is now empty."
+      }
+    },
+    {
+      "id": "tKMFaVhbHuQq8LO1cewx",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-12-02.942Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617923,
+        "_nanoseconds": 204000000
+      }
+    },
+    {
+      "id": "tR3Hrt1z2KxCAWIrsrrl",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 110,
+        "customComment": "",
+        "newScore": 125,
+        "change": 15,
+        "name": "Lithish",
+        "id": "RHHMRI8p6lfg9U1vFLP8"
+      },
+      "timestamp": {
+        "_seconds": 1748930705,
+        "_nanoseconds": 479475000
+      }
+    },
+    {
+      "id": "tbMthS8Co43KpdMv9wVu",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-20-31.482Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618431,
+        "_nanoseconds": 768000000
+      }
+    },
+    {
+      "id": "tvg4sW3E508HIdvCuFCg",
+      "action": "Updated Score",
+      "details": {
+        "oldScore": 105,
+        "newScore": 110,
+        "name": "Kanishkar",
+        "id": "Py3z8gFnyk6wTD7QIzoq"
+      },
+      "timestamp": {
+        "_seconds": 1748708821,
+        "_nanoseconds": 868206000
+      }
+    },
+    {
+      "id": "tx89lrfUjay3cKjBg0Q6",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-06-44.909Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617605,
+        "_nanoseconds": 188000000
+      }
+    },
+    {
+      "id": "u6u4B1M9P5q7DC9K5x1Q",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-35-58.707Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619358,
+        "_nanoseconds": 999000000
+      }
+    },
+    {
+      "id": "uMV5K3M2VEDTDqYICfX0",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 190,
+        "customComment": "",
+        "newScore": 215,
+        "change": 25,
+        "name": "Kiruthika",
+        "id": "glxVOiOtbLPS7UgcEIDt"
+      },
+      "timestamp": {
+        "_seconds": 1748932044,
+        "_nanoseconds": 735698000
+      }
+    },
+    {
+      "id": "uOTvuV6ToDLICKQqTN8Y",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-18.138Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619198,
+        "_nanoseconds": 419000000
+      }
+    },
+    {
+      "id": "uSlQZ63pCywXdGllnucA",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-25.965Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619146,
+        "_nanoseconds": 251000000
+      }
+    },
+    {
+      "id": "uUkybOrjAjHXAPjaI911",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-36-50.867Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619411,
+        "_nanoseconds": 167000000
+      }
+    },
+    {
+      "id": "uZR1w0MRKxPcOP6oBXmd",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T16-06-36.058Z.json",
+        "count": 73
+      },
+      "timestamp": {
+        "_seconds": 1748621196,
+        "_nanoseconds": 300000000
+      }
+    },
+    {
+      "id": "uejXGF6gxBEByy48bxHx",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-13.967Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618174,
+        "_nanoseconds": 231000000
+      }
+    },
+    {
+      "id": "ux7ABWVT50AqpOTbhmaG",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-34.933Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618195,
+        "_nanoseconds": 207000000
+      }
+    },
+    {
+      "id": "vCJP0D6igjFU8w2fXMus",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 220,
+        "customComment": "",
+        "newScore": 175,
+        "change": -45,
+        "name": "Raistar",
+        "id": "GlfOVQYcl6k2wrCAJxHK"
+      },
+      "timestamp": {
+        "_seconds": 1749019318,
+        "_nanoseconds": 489963000
+      }
+    },
+    {
+      "id": "vhkNB8EcNfAWFBB7Taw2",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-31-20.293Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619080,
+        "_nanoseconds": 585000000
+      }
+    },
+    {
+      "id": "vjeEPzogabwERIOWGJCO",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T07-00-03.835Z.json",
+        "count": 70
+      },
+      "timestamp": {
+        "_seconds": 1748588404,
+        "_nanoseconds": 53000000
+      }
+    },
+    {
+      "id": "vpQnJT5FMCRJmnacuD7s",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-36.162Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619156,
+        "_nanoseconds": 463000000
+      }
+    },
+    {
+      "id": "w4FJgHhBPLrygpaif3PV",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 125,
+        "change": 25,
+        "name": "Saravana",
+        "id": "Edra4p7BHvu3MdK68KPj"
+      },
+      "timestamp": {
+        "_seconds": 1748923445,
+        "_nanoseconds": 994092000
+      }
+    },
+    {
+      "id": "wESr1x8L8mfaPCENiT9d",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 120,
+        "customComment": "",
+        "newScore": 115,
+        "change": -5,
+        "name": "Aravind",
+        "id": "s8gYbl0Zl64PUFJ8lZ00"
+      },
+      "timestamp": {
+        "_seconds": 1748709691,
+        "_nanoseconds": 407777000
+      }
+    },
+    {
+      "id": "wIEpNBDyZyjxmMArTlca",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-32-03.789Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619124,
+        "_nanoseconds": 87000000
+      }
+    },
+    {
+      "id": "wMDVPeQp2l4lUDUacuBl",
+      "action": "Added Group",
+      "details": {
+        "classId": "7A",
+        "name": "Raistar"
+      },
+      "timestamp": {
+        "_seconds": 1748856615,
+        "_nanoseconds": 949789000
+      }
+    },
+    {
+      "id": "wNJBgIa0sNnVnWI64Wuv",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T16-09-47.719Z.json",
+        "count": 73
+      },
+      "timestamp": {
+        "_seconds": 1748621388,
+        "_nanoseconds": 45000000
+      }
+    },
+    {
+      "id": "wbbsLJlyvQR1wUStVV8z",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-36.076Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617536,
+        "_nanoseconds": 369000000
+      }
+    },
+    {
+      "id": "wnK8gu11u4fvvzpM58Dg",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-29-21.065Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618961,
+        "_nanoseconds": 372000000
+      }
+    },
+    {
+      "id": "wzckFskMMEte7PNan3JZ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 145,
+        "change": 45,
+        "name": "Sanjana",
+        "id": "CagmbsRXc020M5Gylny8"
+      },
+      "timestamp": {
+        "_seconds": 1748925512,
+        "_nanoseconds": 89913000
+      }
+    },
+    {
+      "id": "xB1LBrNnI7KcppTRG3Dc",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T06-58-00.565Z.json",
+        "count": 70
+      },
+      "timestamp": {
+        "_seconds": 1748588280,
+        "_nanoseconds": 836000000
+      }
+    },
+    {
+      "id": "xQk34TzeiYiH23eqAViM",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-39.270Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617539,
+        "_nanoseconds": 541000000
+      }
+    },
+    {
+      "id": "xc6mxarwusT7p9SenT2T",
+      "action": "Generated/Shared Report",
+      "timestamp": {
+        "_seconds": 1749052779,
+        "_nanoseconds": 954000000
+      },
+      "details": {
+        "classId": "7A",
+        "fileName": "score_report_7A_20250604_212939.png"
+      }
+    },
+    {
+      "id": "xguh6G5FNyFgf3KCz8We",
+      "action": "Updated Score",
+      "timestamp": {
+        "_seconds": 1748618349,
+        "_nanoseconds": 920000000
+      },
+      "details": {
+        "name": "Akash",
+        "oldScore": 100,
+        "newScore": 110,
+        "comment": "nn"
+      }
+    },
+    {
+      "id": "xhoOrG41vGy4VOuLOisk",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Unhealthy behaviour",
+        "oldScore": 120,
+        "customComment": "na",
+        "newScore": 130,
+        "change": 10,
+        "name": "Arun",
+        "id": "IdLjJQsVeUJJq1CtSFq6"
+      },
+      "timestamp": {
+        "_seconds": 1748709715,
+        "_nanoseconds": 435099000
+      }
+    },
+    {
+      "id": "xlxRUgyoscfQpfyWPJkh",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-36-45.825Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619406,
+        "_nanoseconds": 124000000
+      }
+    },
+    {
+      "id": "xlykKvgKYoYyfDwvWX7Z",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-33-35.300Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619215,
+        "_nanoseconds": 594000000
+      }
+    },
+    {
+      "id": "y9Xq3oPKx4jqxjsohCRq",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-46-07.079Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748619967,
+        "_nanoseconds": 370000000
+      }
+    },
+    {
+      "id": "yDVNCj6EbGUjv1tSmmAs",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 170,
+        "customComment": "",
+        "newScore": 215,
+        "change": 45,
+        "name": "Yuvanesh",
+        "id": "lQWDgB8EMlKQaW3Zj8DH"
+      },
+      "timestamp": {
+        "_seconds": 1748930749,
+        "_nanoseconds": 590168000
+      }
+    },
+    {
+      "id": "yIQQ7VF5ZjDIU1GHaW0i",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Violating norms",
+        "oldScore": 225,
+        "customComment": "",
+        "newScore": 215,
+        "change": -10,
+        "name": "Victory girls",
+        "id": "jhSfxb0E9EkVxL9CGmhE"
+      },
+      "timestamp": {
+        "_seconds": 1749019356,
+        "_nanoseconds": 486185000
+      }
+    },
+    {
+      "id": "yzi0KqSvQxV1sYD60MLK",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-05-46.996Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748617547,
+        "_nanoseconds": 265000000
+      }
+    },
+    {
+      "id": "z78aAKLJwvgExj1Q16dV",
+      "action": "Manual Backup Created (Server-side)",
+      "details": {
+        "filename": "backup-2025-05-30T15-16-27.016Z.json",
+        "count": 72
+      },
+      "timestamp": {
+        "_seconds": 1748618187,
+        "_nanoseconds": 283000000
+      }
+    },
+    {
+      "id": "zBHlbf1j4gHepajFjaNZ",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 220,
+        "change": 120,
+        "name": "Raistar",
+        "id": "GlfOVQYcl6k2wrCAJxHK"
+      },
+      "timestamp": {
+        "_seconds": 1749019303,
+        "_nanoseconds": 357601000
+      }
+    },
+    {
+      "id": "zHWtOdgCjM9j1PgEG27r",
+      "action": "Updated Score",
+      "details": {
+        "reason": "Activity Performance",
+        "oldScore": 100,
+        "customComment": "",
+        "newScore": 225,
+        "change": 125,
+        "name": "Victory girls",
+        "id": "jhSfxb0E9EkVxL9CGmhE"
+      },
+      "timestamp": {
+        "_seconds": 1749019336,
+        "_nanoseconds": 327592000
+      }
+    }
+  ],
+  "guestLinks": [
+    {
+      "id": "Ixja9AyIb1BVGed8giYU",
+      "token": "1def6a0fd1d5c001f8ee82e83a1ac160",
+      "classId": "8A",
+      "expiry": {
+        "_seconds": 1749225991,
+        "_nanoseconds": 643000000
+      }
+    }
+  ]
+}
