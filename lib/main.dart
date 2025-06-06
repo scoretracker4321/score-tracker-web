@@ -2385,11 +2385,11 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
       String shareableLink;
       if (kIsWeb) {
         // For web, use the current origin and append the reportId as a query parameter
-        shareableLink = '${html.window.location.origin}/index.html?reportId=$reportId';
+        shareableLink = '${html.window.location.href.split('?')[0].split('#')[0]}?reportId=$reportId';
       } else {
         // For mobile, construct a generic link to the web report viewer.
         // For actual deep linking to the native app, a separate deep link setup (e.g., Firebase Dynamic Links) would be needed.
-        shareableLink = 'https://your_app_web_url/index.html?reportId=$reportId'; // IMPORTANT: Replace with your actual deployed web URL
+        shareableLink = 'https://scoretracker4321.github.io/score-tracker-web/?reportId=$reportId'; // IMPORTANT: Replace with your actual deployed web URL
       }
 
       _showMessage('Report link generated!');
