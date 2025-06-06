@@ -144,35 +144,45 @@ class _ReportViewerPageState extends State<ReportViewerPage> {
 
 
   /// Calculates net growth for all students and identifies top/bottom 5 for highlighting.
+  /// Calculates net growth for all students and identifies top/bottom 5 for highlighting.
+  /// The 'bottom 5' will now specifically identify students with the most decrements.
   void _calculateGrowthHighlights() {
     _top5GrowthIds.clear();
-    _bottom5GrowthIds.clear();
+    _bottom5GrowthIds.clear(); // This will now be for most decrements
 
     if (_studentsInReport.isEmpty) {
       print('No students in report to calculate growth highlights.');
       return;
     }
 
-    // Use the centralized calculateGrowthMetrics from StudentGroup
-    List<Map<String, dynamic>> tempGrowthData = _studentsInReport.map((item) {
+    // Create a temporary list of maps to hold student and their calculated metrics
+    List<Map<String, dynamic>> allStudentsMetrics = _studentsInReport.map((item) {
       final metrics = item.calculateGrowthMetrics(); // Use the model's method
-      return {'item': item, 'netGrowth': metrics['netGrowth']!};
+      return {
+        'item': item,
+        'netGrowth': metrics['netGrowth']!,
+        'totalDecrement': metrics['totalDecrement']!, // Include totalDecrement for new logic
+      };
     }).toList();
 
-    print('Total students considered for growth calculation: ${tempGrowthData.length}');
+    print('Total students considered for growth calculation: ${allStudentsMetrics.length}');
 
-    // Identify top 5 (most positive net growth)
-    // Sort in descending order of net growth
-    tempGrowthData.sort((a, b) => (b['netGrowth'] as int).compareTo(a['netGrowth'] as int));
-    _top5GrowthIds = tempGrowthData.take(5).map((e) => (e['item'] as StudentGroup).id!).toSet();
-    print('Top 5 Increased Growth IDs: $_top5GrowthIds (Count: ${_top5GrowthIds.length})');
+    // Identify top 5 (most positive net growth) - remains the same
+    List<Map<String, dynamic>> sortedByNetGrowth = List.from(allStudentsMetrics);
+    sortedByNetGrowth.sort((a, b) => (b['netGrowth'] as int).compareTo(a['netGrowth'] as int)); // Sort descending by net growth
+    _top5GrowthIds = sortedByNetGrowth.take(5).map((e) => (e['item'] as StudentGroup).id!).toSet();
+    print('Top 5 Increased Growth IDs (by Net Growth): $_top5GrowthIds (Count: ${_top5GrowthIds.length})');
 
-    // Identify bottom 5 (most negative net growth)
-    // Re-sort ascending for bottom 5
-    tempGrowthData.sort((a, b) => (a['netGrowth'] as int).compareTo(b['netGrowth'] as int));
-    _bottom5GrowthIds = tempGrowthData.take(5).map((e) => (e['item'] as StudentGroup).id!).toSet();
-    print('Bottom 5 Decreased Growth IDs: $_bottom5GrowthIds (Count: ${_bottom5GrowthIds.length})');
+    // Identify bottom 5 (most decrements)
+    List<Map<String, dynamic>> sortedByDecrement = List.from(allStudentsMetrics);
+    // Sort by 'totalDecrement' in ASCENDING order.
+    // Since totalDecrement is a negative value (e.g., -20 is more decrement than -5),
+    // ascending order will bring the largest absolute negative values to the top.
+    sortedByDecrement.sort((a, b) => (a['totalDecrement'] as int).compareTo(b['totalDecrement'] as int));
+    _bottom5GrowthIds = sortedByDecrement.take(5).map((e) => (e['item'] as StudentGroup).id!).toSet();
+    print('Bottom 5 IDs (by Most Decrements): $_bottom5GrowthIds (Count: ${_bottom5GrowthIds.length})');
   }
+
 
   /// Determines the background color for a DataRow based on net growth highlighting.
   Color? _getHighlightColor(StudentGroup item) {
